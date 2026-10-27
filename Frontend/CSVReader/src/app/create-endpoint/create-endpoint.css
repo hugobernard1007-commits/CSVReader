@@ -1,0 +1,39 @@
+/* Réutilise les variables du composant principal */
+:host {
+  display: block;
+  padding: 2rem;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+.badge-publish { background: #22c55e; color: #fff; }
+
+.url-result {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: #f0fdf4;
+  border: 1px solid #86efac;
+  border-radius: 8px;
+}
+
+.url-label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #15803d;
+}
+
+.url-code {
+  flex: 1;
+  font-family: 'Fira Code', monospace;
+  font-size: 0.85rem;
+  color: #166534;
+  word-break: break-all;
+}
+
+.error-msg {
+  color: #ef4444;
+  font-size: 0.85rem;
+}

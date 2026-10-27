@@ -1,0 +1,61 @@
+Application 1 : chargement de fichiers CSV avec comparaison, dashboard et API
+•	Front-end 
+	o	1 – Écran simple de chargement d’un fichier CSV. ✔
+	o	2 – Popup ou panneau latéral pour choisir les colonnes à utiliser. ✔
+	o	3 – Affichage des données CSV dans une datagrid. ✔
+	o	4 – Fonction de filtre, tri et export des résultats affichés. ✔
+	o	5 – Possibilité de charger un deuxième fichier CSV pour comparaison avec le premier. ✔
+	o	6 – Affichage des différences dans une datagrid dédiée. ✔
+	o	7 – Export des résultats de comparaison. ✔
+	o	8 – Page de création d’un endpoint API à partir des données chargées. ✔
+•	Back-end 
+	o	1 – Gestion du chargement des fichiers CSV. ✔
+	o	2 – Lecture, validation et traitement des fichiers CSV. ✔
+	o	3 – Gestion de l’affichage des données CSV. ✔
+	o	4 – Gestion de la comparaison entre deux fichiers CSV. ✔
+	o	5 – Stockage des données issues des fichiers CSV chargés. ✔
+	o	6 – Exposition des données via API. ✔
+	o	7 – Possibilité de créer des endpoints API à partir des données enregistrées. ✔
+
+Application 2 : consultation des données via dashboard consommer l’API de l’application 1 et d’afficher les données côté front-end.
+•	Front-end uniquement 
+	o	1 – Connexion à l’API exposée par l’application 1. ✔
+	o	2 – Sélection des données ou des endpoints disponibles. ✔
+	o	3 – Affichage des données sous forme de dashboard. ✔
+	o	4 – Mise en place de graphiques, tableaux et indicateurs. ✔
+	o	5 – Possibilité de filtrer les données affichées. ✔
+	o	6 – Export des données ou des résultats filtrés. ✔
+
+
+Technologies 
+•	Back-end 
+	o	C# / .NET 
+•	Front-end 
+	o	Vue avec PrimeVue : https://primevue.org/ 
+	o	Angular avec PrimeNG : https://primeng.org/ 
+	o	React avec PrimeReact : https://primereact.org/ 
+•	API 
+	o	API REST 
+•	Affichage 
+	o	Datagrid 
+	o	Dashboard 
+	o	Export de données 
+Architecture
+•	Application 1 
+	o	Architecture MVC. 
+•	Application 2 
+	o	Architecture front-end orientée composants. 
+	o	Pas de back-end dédié dans un premier temps. 
+
+
+Ce projet permet de travailler sur plusieurs sujets :
+•	chargement et traitement de fichiers CSV ; 
+•	comparaison de données ; 
+•	affichage de données en datagrid ; 
+•	création et exposition d’API ; 
+•	consommation d’API ; 
+•	création de dashboards ; 
+•	export de données.
+
+
+A faire à la mano et via IA pour voir les résultats et le temps d’exécution etc. 

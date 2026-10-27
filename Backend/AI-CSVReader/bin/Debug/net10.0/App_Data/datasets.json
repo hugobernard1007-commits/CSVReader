@@ -1,0 +1,2817 @@
+[
+  {
+    "Id": "e53bc3d7-c4a8-4a2a-ba82-837c0981b2c9",
+    "Name": "animes_myanimelist_100",
+    "OriginalFileName": "animes_myanimelist_100.csv",
+    "UploadedAt": "2026-07-21T13:51:49.0259722Z",
+    "Columns": [
+      "Nom",
+      "Genre",
+      "Note_MAL",
+      "Episodes",
+      "Annee"
+    ],
+    "Rows": [
+      {
+        "Nom": "Sousou no Frieren",
+        "Genre": "Adventure, Fantasy",
+        "Note_MAL": "9.26",
+        "Episodes": "28",
+        "Annee": "2023"
+      },
+      {
+        "Nom": "Fullmetal Alchemist: Brotherhood",
+        "Genre": "Action, Adventure",
+        "Note_MAL": "9.11",
+        "Episodes": "64",
+        "Annee": "2009"
+      },
+      {
+        "Nom": "Steins;Gate",
+        "Genre": "Sci-Fi, Thriller",
+        "Note_MAL": "9.07",
+        "Episodes": "24",
+        "Annee": "2011"
+      },
+      {
+        "Nom": "Gintama: The Final",
+        "Genre": "Action, Comedy",
+        "Note_MAL": "9.05",
+        "Episodes": "1",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "Gintama\u00B0",
+        "Genre": "Comedy, Action",
+        "Note_MAL": "9.05",
+        "Episodes": "51",
+        "Annee": "2015"
+      },
+      {
+        "Nom": "Attack on Titan Season 3 Part 2",
+        "Genre": "Action, Drama",
+        "Note_MAL": "9.05",
+        "Episodes": "10",
+        "Annee": "2019"
+      },
+      {
+        "Nom": "Hunter x Hunter (2011)",
+        "Genre": "Action, Adventure",
+        "Note_MAL": "9.03",
+        "Episodes": "148",
+        "Annee": "2011"
+      },
+      {
+        "Nom": "Legend of the Galactic Heroes",
+        "Genre": "Sci-Fi, Drama",
+        "Note_MAL": "9.02",
+        "Episodes": "110",
+        "Annee": "1988"
+      },
+      {
+        "Nom": "Gintama\u0027",
+        "Genre": "Comedy, Action",
+        "Note_MAL": "9.02",
+        "Episodes": "51",
+        "Annee": "2011"
+      },
+      {
+        "Nom": "Gintama\u0027: Enchousen",
+        "Genre": "Comedy, Action",
+        "Note_MAL": "9.02",
+        "Episodes": "13",
+        "Annee": "2012"
+      },
+      {
+        "Nom": "Bleach: Thousand-Year Blood War",
+        "Genre": "Action, Supernatural",
+        "Note_MAL": "8.98",
+        "Episodes": "13",
+        "Annee": "2022"
+      },
+      {
+        "Nom": "Kaguya-sama: Ultra Romantic",
+        "Genre": "Comedy, Romance",
+        "Note_MAL": "8.95",
+        "Episodes": "13",
+        "Annee": "2022"
+      },
+      {
+        "Nom": "Clannad: After Story",
+        "Genre": "Drama, Romance",
+        "Note_MAL": "8.93",
+        "Episodes": "24",
+        "Annee": "2008"
+      },
+      {
+        "Nom": "Fruits Basket: The Final",
+        "Genre": "Drama, Romance",
+        "Note_MAL": "8.93",
+        "Episodes": "13",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "Gintama",
+        "Genre": "Comedy, Action",
+        "Note_MAL": "8.93",
+        "Episodes": "201",
+        "Annee": "2006"
+      },
+      {
+        "Nom": "A Silent Voice",
+        "Genre": "Drama",
+        "Note_MAL": "8.93",
+        "Episodes": "1",
+        "Annee": "2018"
+      },
+      {
+        "Nom": "Code Geass R2",
+        "Genre": "Action, Mecha",
+        "Note_MAL": "8.92",
+        "Episodes": "25",
+        "Annee": "2008"
+      },
+      {
+        "Nom": "March Comes in Like a Lion 2nd Season",
+        "Genre": "Drama",
+        "Note_MAL": "8.9",
+        "Episodes": "22",
+        "Annee": "2017"
+      },
+      {
+        "Nom": "Owarimonogatari 2nd Season",
+        "Genre": "Mystery, Supernatural",
+        "Note_MAL": "8.88",
+        "Episodes": "7",
+        "Annee": "2017"
+      },
+      {
+        "Nom": "Violet Evergarden Movie",
+        "Genre": "Drama",
+        "Note_MAL": "8.85",
+        "Episodes": "1",
+        "Annee": "2020"
+      },
+      {
+        "Nom": "Your Name",
+        "Genre": "Romance, Supernatural",
+        "Note_MAL": "8.84",
+        "Episodes": "1",
+        "Annee": "2016"
+      },
+      {
+        "Nom": "Mob Psycho 100 II",
+        "Genre": "Action, Comedy",
+        "Note_MAL": "8.8",
+        "Episodes": "13",
+        "Annee": "2019"
+      },
+      {
+        "Nom": "Vinland Saga Season 2",
+        "Genre": "Action, Drama",
+        "Note_MAL": "8.81",
+        "Episodes": "24",
+        "Annee": "2023"
+      },
+      {
+        "Nom": "Kingdom Season 3",
+        "Genre": "Action, Historical",
+        "Note_MAL": "8.79",
+        "Episodes": "26",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "Ginga Eiyuu Densetsu: Die Neue These",
+        "Genre": "Sci-Fi",
+        "Note_MAL": "8.78",
+        "Episodes": "12",
+        "Annee": "2018"
+      },
+      {
+        "Nom": "Odd Taxi",
+        "Genre": "Mystery",
+        "Note_MAL": "8.77",
+        "Episodes": "13",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "Monster",
+        "Genre": "Mystery, Thriller",
+        "Note_MAL": "8.76",
+        "Episodes": "74",
+        "Annee": "2004"
+      },
+      {
+        "Nom": "Mushishi Zoku Shou",
+        "Genre": "Adventure, Mystery",
+        "Note_MAL": "8.75",
+        "Episodes": "10",
+        "Annee": "2014"
+      },
+      {
+        "Nom": "Haikyuu!! Karasuno vs Shiratorizawa",
+        "Genre": "Sports",
+        "Note_MAL": "8.78",
+        "Episodes": "10",
+        "Annee": "2016"
+      },
+      {
+        "Nom": "Hajime no Ippo",
+        "Genre": "Sports",
+        "Note_MAL": "8.77",
+        "Episodes": "75",
+        "Annee": "2000"
+      },
+      {
+        "Nom": "JoJo Part 4",
+        "Genre": "Action, Supernatural",
+        "Note_MAL": "8.5",
+        "Episodes": "39",
+        "Annee": "2016"
+      },
+      {
+        "Nom": "JoJo Part 5",
+        "Genre": "Action, Supernatural",
+        "Note_MAL": "8.58",
+        "Episodes": "39",
+        "Annee": "2018"
+      },
+      {
+        "Nom": "Death Note",
+        "Genre": "Mystery, Thriller",
+        "Note_MAL": "8.62",
+        "Episodes": "37",
+        "Annee": "2006"
+      },
+      {
+        "Nom": "Cowboy Bebop",
+        "Genre": "Action, Sci-Fi",
+        "Note_MAL": "8.75",
+        "Episodes": "26",
+        "Annee": "1998"
+      },
+      {
+        "Nom": "Samurai Champloo",
+        "Genre": "Adventure",
+        "Note_MAL": "8.5",
+        "Episodes": "26",
+        "Annee": "2004"
+      },
+      {
+        "Nom": "Neon Genesis Evangelion",
+        "Genre": "Drama, Mecha",
+        "Note_MAL": "8.35",
+        "Episodes": "26",
+        "Annee": "1995"
+      },
+      {
+        "Nom": "Tengen Toppa Gurren Lagann",
+        "Genre": "Action, Mecha",
+        "Note_MAL": "8.63",
+        "Episodes": "27",
+        "Annee": "2007"
+      },
+      {
+        "Nom": "Made in Abyss",
+        "Genre": "Adventure, Fantasy",
+        "Note_MAL": "8.65",
+        "Episodes": "13",
+        "Annee": "2017"
+      },
+      {
+        "Nom": "Made in Abyss S2",
+        "Genre": "Adventure, Fantasy",
+        "Note_MAL": "8.8",
+        "Episodes": "12",
+        "Annee": "2022"
+      },
+      {
+        "Nom": "Re:Zero Season 2 Part 2",
+        "Genre": "Fantasy, Thriller",
+        "Note_MAL": "8.7",
+        "Episodes": "12",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "Re:Zero",
+        "Genre": "Fantasy, Thriller",
+        "Note_MAL": "8.2",
+        "Episodes": "25",
+        "Annee": "2016"
+      },
+      {
+        "Nom": "Konosuba Season 2",
+        "Genre": "Comedy, Fantasy",
+        "Note_MAL": "8.25",
+        "Episodes": "10",
+        "Annee": "2017"
+      },
+      {
+        "Nom": "Konosuba",
+        "Genre": "Comedy, Fantasy",
+        "Note_MAL": "8.1",
+        "Episodes": "10",
+        "Annee": "2016"
+      },
+      {
+        "Nom": "One Punch Man",
+        "Genre": "Action, Comedy",
+        "Note_MAL": "8.49",
+        "Episodes": "12",
+        "Annee": "2015"
+      },
+      {
+        "Nom": "Naruto",
+        "Genre": "Action, Adventure",
+        "Note_MAL": "8.0",
+        "Episodes": "220",
+        "Annee": "2002"
+      },
+      {
+        "Nom": "Naruto Shippuden",
+        "Genre": "Action, Adventure",
+        "Note_MAL": "8.3",
+        "Episodes": "500",
+        "Annee": "2007"
+      },
+      {
+        "Nom": "One Piece",
+        "Genre": "Action, Adventure",
+        "Note_MAL": "8.7",
+        "Episodes": "1000",
+        "Annee": "1999"
+      },
+      {
+        "Nom": "Dragon Ball Z",
+        "Genre": "Action",
+        "Note_MAL": "8.1",
+        "Episodes": "291",
+        "Annee": "1989"
+      },
+      {
+        "Nom": "Dragon Ball",
+        "Genre": "Adventure",
+        "Note_MAL": "8.4",
+        "Episodes": "153",
+        "Annee": "1986"
+      },
+      {
+        "Nom": "Dragon Ball Super",
+        "Genre": "Action",
+        "Note_MAL": "7.4",
+        "Episodes": "131",
+        "Annee": "2015"
+      },
+      {
+        "Nom": "Spy x Family",
+        "Genre": "Comedy, Action",
+        "Note_MAL": "8.5",
+        "Episodes": "12",
+        "Annee": "2022"
+      },
+      {
+        "Nom": "Bocchi the Rock!",
+        "Genre": "Comedy, Music",
+        "Note_MAL": "8.75",
+        "Episodes": "12",
+        "Annee": "2022"
+      },
+      {
+        "Nom": "Chainsaw Man",
+        "Genre": "Action, Horror",
+        "Note_MAL": "8.45",
+        "Episodes": "12",
+        "Annee": "2022"
+      },
+      {
+        "Nom": "Jujutsu Kaisen",
+        "Genre": "Action, Supernatural",
+        "Note_MAL": "8.55",
+        "Episodes": "24",
+        "Annee": "2020"
+      },
+      {
+        "Nom": "Jujutsu Kaisen S2",
+        "Genre": "Action, Supernatural",
+        "Note_MAL": "8.8",
+        "Episodes": "23",
+        "Annee": "2023"
+      },
+      {
+        "Nom": "Demon Slayer",
+        "Genre": "Action, Fantasy",
+        "Note_MAL": "8.45",
+        "Episodes": "26",
+        "Annee": "2019"
+      },
+      {
+        "Nom": "Demon Slayer Entertainment District",
+        "Genre": "Action, Fantasy",
+        "Note_MAL": "8.75",
+        "Episodes": "11",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "86 Eighty-Six",
+        "Genre": "Drama, Sci-Fi",
+        "Note_MAL": "8.7",
+        "Episodes": "11",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "86 Part 2",
+        "Genre": "Drama, Sci-Fi",
+        "Note_MAL": "8.8",
+        "Episodes": "12",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "The Apothecary Diaries",
+        "Genre": "Drama, Mystery",
+        "Note_MAL": "8.8",
+        "Episodes": "24",
+        "Annee": "2023"
+      },
+      {
+        "Nom": "Oshi no Ko",
+        "Genre": "Drama",
+        "Note_MAL": "8.6",
+        "Episodes": "11",
+        "Annee": "2023"
+      },
+      {
+        "Nom": "Parasyte",
+        "Genre": "Action, Horror",
+        "Note_MAL": "8.3",
+        "Episodes": "24",
+        "Annee": "2014"
+      },
+      {
+        "Nom": "Erased",
+        "Genre": "Mystery",
+        "Note_MAL": "8.3",
+        "Episodes": "12",
+        "Annee": "2016"
+      },
+      {
+        "Nom": "Ping Pong the Animation",
+        "Genre": "Sports, Drama",
+        "Note_MAL": "8.6",
+        "Episodes": "11",
+        "Annee": "2014"
+      },
+      {
+        "Nom": "Welcome to the NHK",
+        "Genre": "Drama, Comedy",
+        "Note_MAL": "8.3",
+        "Episodes": "24",
+        "Annee": "2006"
+      },
+      {
+        "Nom": "FLCL",
+        "Genre": "Comedy, Sci-Fi",
+        "Note_MAL": "8.0",
+        "Episodes": "6",
+        "Annee": "2000"
+      },
+      {
+        "Nom": "Berserk",
+        "Genre": "Action, Drama",
+        "Note_MAL": "8.6",
+        "Episodes": "25",
+        "Annee": "1997"
+      },
+      {
+        "Nom": "Trigun",
+        "Genre": "Action, Adventure",
+        "Note_MAL": "8.2",
+        "Episodes": "26",
+        "Annee": "1998"
+      },
+      {
+        "Nom": "Black Lagoon",
+        "Genre": "Action",
+        "Note_MAL": "8.0",
+        "Episodes": "12",
+        "Annee": "2006"
+      },
+      {
+        "Nom": "Psycho-Pass",
+        "Genre": "Sci-Fi, Thriller",
+        "Note_MAL": "8.3",
+        "Episodes": "22",
+        "Annee": "2012"
+      },
+      {
+        "Nom": "Fate/Zero",
+        "Genre": "Action, Fantasy",
+        "Note_MAL": "8.3",
+        "Episodes": "13",
+        "Annee": "2011"
+      },
+      {
+        "Nom": "Fate/Zero 2nd Season",
+        "Genre": "Action, Fantasy",
+        "Note_MAL": "8.5",
+        "Episodes": "12",
+        "Annee": "2012"
+      },
+      {
+        "Nom": "Fate/stay night UBW",
+        "Genre": "Action, Fantasy",
+        "Note_MAL": "8.2",
+        "Episodes": "25",
+        "Annee": "2014"
+      },
+      {
+        "Nom": "Bakuman 3",
+        "Genre": "Comedy",
+        "Note_MAL": "8.6",
+        "Episodes": "25",
+        "Annee": "2012"
+      },
+      {
+        "Nom": "Barakamon",
+        "Genre": "Slice of Life",
+        "Note_MAL": "8.4",
+        "Episodes": "12",
+        "Annee": "2014"
+      },
+      {
+        "Nom": "Natsume Yuujinchou",
+        "Genre": "Fantasy",
+        "Note_MAL": "8.3",
+        "Episodes": "13",
+        "Annee": "2008"
+      },
+      {
+        "Nom": "K-On!!",
+        "Genre": "Comedy, Music",
+        "Note_MAL": "8.2",
+        "Episodes": "26",
+        "Annee": "2010"
+      },
+      {
+        "Nom": "Sound! Euphonium",
+        "Genre": "Music, Drama",
+        "Note_MAL": "8.0",
+        "Episodes": "13",
+        "Annee": "2015"
+      },
+      {
+        "Nom": "Run with the Wind",
+        "Genre": "Sports",
+        "Note_MAL": "8.4",
+        "Episodes": "23",
+        "Annee": "2018"
+      },
+      {
+        "Nom": "Chihayafuru 3",
+        "Genre": "Sports, Drama",
+        "Note_MAL": "8.5",
+        "Episodes": "24",
+        "Annee": "2019"
+      },
+      {
+        "Nom": "Toradora!",
+        "Genre": "Romance, Comedy",
+        "Note_MAL": "8.0",
+        "Episodes": "25",
+        "Annee": "2008"
+      },
+      {
+        "Nom": "Golden Time",
+        "Genre": "Romance",
+        "Note_MAL": "7.8",
+        "Episodes": "24",
+        "Annee": "2013"
+      },
+      {
+        "Nom": "Horimiya",
+        "Genre": "Romance, Comedy",
+        "Note_MAL": "8.2",
+        "Episodes": "13",
+        "Annee": "2021"
+      },
+      {
+        "Nom": "Kimi ni Todoke",
+        "Genre": "Romance",
+        "Note_MAL": "8.0",
+        "Episodes": "25",
+        "Annee": "2009"
+      },
+      {
+        "Nom": "Fruits Basket 2019",
+        "Genre": "Drama, Romance",
+        "Note_MAL": "8.2",
+        "Episodes": "25",
+        "Annee": "2019"
+      },
+      {
+        "Nom": "Your Lie in April",
+        "Genre": "Drama, Music",
+        "Note_MAL": "8.6",
+        "Episodes": "22",
+        "Annee": "2014"
+      },
+      {
+        "Nom": "Anohana",
+        "Genre": "Drama",
+        "Note_MAL": "8.3",
+        "Episodes": "11",
+        "Annee": "2011"
+      },
+      {
+        "Nom": "Angel Beats!",
+        "Genre": "Drama",
+        "Note_MAL": "8.0",
+        "Episodes": "13",
+        "Annee": "2010"
+      },
+      {
+        "Nom": "Madoka Magica",
+        "Genre": "Psychological, Fantasy",
+        "Note_MAL": "8.4",
+        "Episodes": "12",
+        "Annee": "2011"
+      },
+      {
+        "Nom": "Bakemonogatari",
+        "Genre": "Mystery, Romance",
+        "Note_MAL": "8.3",
+        "Episodes": "15",
+        "Annee": "2009"
+      },
+      {
+        "Nom": "Monogatari Second Season",
+        "Genre": "Mystery, Supernatural",
+        "Note_MAL": "8.8",
+        "Episodes": "26",
+        "Annee": "2013"
+      },
+      {
+        "Nom": "Kizumonogatari III",
+        "Genre": "Action, Mystery",
+        "Note_MAL": "8.8",
+        "Episodes": "1",
+        "Annee": "2017"
+      },
+      {
+        "Nom": "The Disappearance of Haruhi Suzumiya",
+        "Genre": "Sci-Fi",
+        "Note_MAL": "8.6",
+        "Episodes": "1",
+        "Annee": "2010"
+      },
+      {
+        "Nom": "Ghost in the Shell SAC",
+        "Genre": "Sci-Fi",
+        "Note_MAL": "8.4",
+        "Episodes": "26",
+        "Annee": "2002"
+      },
+      {
+        "Nom": "Akira",
+        "Genre": "Sci-Fi",
+        "Note_MAL": "8.2",
+        "Episodes": "1",
+        "Annee": "1988"
+      },
+      {
+        "Nom": "Princess Mononoke",
+        "Genre": "Fantasy",
+        "Note_MAL": "8.7",
+        "Episodes": "1",
+        "Annee": "1997"
+      },
+      {
+        "Nom": "Spirited Away",
+        "Genre": "Fantasy",
+        "Note_MAL": "8.8",
+        "Episodes": "1",
+        "Annee": "2001"
+      },
+      {
+        "Nom": "Howl\u0027s Moving Castle",
+        "Genre": "Fantasy",
+        "Note_MAL": "8.6",
+        "Episodes": "1",
+        "Annee": "2004"
+      },
+      {
+        "Nom": "Castle in the Sky",
+        "Genre": "Adventure, Fantasy",
+        "Note_MAL": "8.3",
+        "Episodes": "1",
+        "Annee": "1986"
+      },
+      {
+        "Nom": "Zombie Land Saga",
+        "Genre": "Comedy, Idols",
+        "Note_MAL": "7.5",
+        "Episodes": "12",
+        "Annee": "2018"
+      }
+    ]
+  },
+  {
+    "Id": "47a1be58-c440-4db7-a76f-66d4ef51a70f",
+    "Name": "animes_myanimelist_100_ter",
+    "OriginalFileName": "animes_myanimelist_100_ter.csv",
+    "UploadedAt": "2026-07-21T13:52:09.4289607Z",
+    "Columns": [
+      "Nom",
+      "Note_MAL",
+      "Episodes",
+      "Annee",
+      "Genre"
+    ],
+    "Rows": [
+      {
+        "Nom": "Attack on Titan",
+        "Note_MAL": "8.58",
+        "Episodes": "25",
+        "Annee": "2013",
+        "Genre": "Action, Drama"
+      },
+      {
+        "Nom": "Death Note",
+        "Note_MAL": "8.63",
+        "Episodes": "37",
+        "Annee": "2006",
+        "Genre": "Mystery, Thriller"
+      },
+      {
+        "Nom": "Fullmetal Alchemist: Brotherhood",
+        "Note_MAL": "9.12",
+        "Episodes": "64",
+        "Annee": "2009",
+        "Genre": "Action, Adventure"
+      },
+      {
+        "Nom": "One Punch Man",
+        "Note_MAL": "8.48",
+        "Episodes": "12",
+        "Annee": "2015",
+        "Genre": "Action, Comedy"
+      },
+      {
+        "Nom": "Demon Slayer",
+        "Note_MAL": "8.46",
+        "Episodes": "26",
+        "Annee": "2019",
+        "Genre": "Action, Fantasy"
+      },
+      {
+        "Nom": "Hunter x Hunter (2011)",
+        "Note_MAL": "9.04",
+        "Episodes": "148",
+        "Annee": "2011",
+        "Genre": "Action, Adventure"
+      },
+      {
+        "Nom": "Steins;Gate",
+        "Note_MAL": "9.08",
+        "Episodes": "24",
+        "Annee": "2011",
+        "Genre": "Sci-Fi, Thriller"
+      },
+      {
+        "Nom": "Naruto",
+        "Note_MAL": "8.01",
+        "Episodes": "220",
+        "Annee": "2002",
+        "Genre": "Action, Adventure"
+      },
+      {
+        "Nom": "One Piece",
+        "Note_MAL": "8.71",
+        "Episodes": "1000",
+        "Annee": "1999",
+        "Genre": "Action, Adventure"
+      },
+      {
+        "Nom": "Koe no Katachi",
+        "Note_MAL": "8.94",
+        "Episodes": "1",
+        "Annee": "2016",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "Code Geass",
+        "Note_MAL": "8.71",
+        "Episodes": "25",
+        "Annee": "2006",
+        "Genre": "Action, Mecha"
+      },
+      {
+        "Nom": "Re:Zero",
+        "Note_MAL": "8.21",
+        "Episodes": "25",
+        "Annee": "2016",
+        "Genre": "Fantasy, Thriller"
+      },
+      {
+        "Nom": "No Game No Life",
+        "Note_MAL": "8.03",
+        "Episodes": "12",
+        "Annee": "2014",
+        "Genre": "Fantasy, Comedy"
+      },
+      {
+        "Nom": "Black Clover",
+        "Note_MAL": "8.11",
+        "Episodes": "170",
+        "Annee": "2017",
+        "Genre": "Action, Fantasy"
+      },
+      {
+        "Nom": "Blue Lock",
+        "Note_MAL": "8.24",
+        "Episodes": "24",
+        "Annee": "2022",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Dr. Stone",
+        "Note_MAL": "8.31",
+        "Episodes": "24",
+        "Annee": "2019",
+        "Genre": "Adventure, Sci-Fi"
+      },
+      {
+        "Nom": "Fire Force",
+        "Note_MAL": "7.71",
+        "Episodes": "24",
+        "Annee": "2019",
+        "Genre": "Action, Supernatural"
+      },
+      {
+        "Nom": "Soul Eater",
+        "Note_MAL": "7.81",
+        "Episodes": "51",
+        "Annee": "2008",
+        "Genre": "Action, Fantasy"
+      },
+      {
+        "Nom": "Fairy Tail",
+        "Note_MAL": "7.61",
+        "Episodes": "175",
+        "Annee": "2009",
+        "Genre": "Action, Adventure"
+      },
+      {
+        "Nom": "Overlord",
+        "Note_MAL": "7.91",
+        "Episodes": "13",
+        "Annee": "2015",
+        "Genre": "Fantasy, Action"
+      },
+      {
+        "Nom": "Log Horizon",
+        "Note_MAL": "7.92",
+        "Episodes": "25",
+        "Annee": "2013",
+        "Genre": "Adventure, Fantasy"
+      },
+      {
+        "Nom": "Shield Hero",
+        "Note_MAL": "7.91",
+        "Episodes": "25",
+        "Annee": "2019",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "Classroom of the Elite",
+        "Note_MAL": "7.81",
+        "Episodes": "12",
+        "Annee": "2017",
+        "Genre": "Psychological"
+      },
+      {
+        "Nom": "Blue Exorcist",
+        "Note_MAL": "7.51",
+        "Episodes": "25",
+        "Annee": "2011",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Noragami",
+        "Note_MAL": "8.01",
+        "Episodes": "12",
+        "Annee": "2014",
+        "Genre": "Supernatural"
+      },
+      {
+        "Nom": "D.Gray-man",
+        "Note_MAL": "8.01",
+        "Episodes": "103",
+        "Annee": "2006",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Yu Yu Hakusho",
+        "Note_MAL": "8.51",
+        "Episodes": "112",
+        "Annee": "1992",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Slam Dunk",
+        "Note_MAL": "8.51",
+        "Episodes": "101",
+        "Annee": "1993",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Initial D",
+        "Note_MAL": "8.31",
+        "Episodes": "26",
+        "Annee": "1998",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Kuroko no Basket",
+        "Note_MAL": "8.11",
+        "Episodes": "25",
+        "Annee": "2012",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Food Wars!",
+        "Note_MAL": "8.11",
+        "Episodes": "24",
+        "Annee": "2015",
+        "Genre": "Comedy"
+      },
+      {
+        "Nom": "Space Brothers",
+        "Note_MAL": "8.51",
+        "Episodes": "99",
+        "Annee": "2012",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Planetes",
+        "Note_MAL": "8.31",
+        "Episodes": "26",
+        "Annee": "2003",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Serial Experiments Lain",
+        "Note_MAL": "8.11",
+        "Episodes": "13",
+        "Annee": "1998",
+        "Genre": "Psychological"
+      },
+      {
+        "Nom": "Rainbow",
+        "Note_MAL": "8.51",
+        "Episodes": "26",
+        "Annee": "2010",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "Nana",
+        "Note_MAL": "8.61",
+        "Episodes": "47",
+        "Annee": "2006",
+        "Genre": "Drama, Music"
+      },
+      {
+        "Nom": "Skip and Loafer",
+        "Note_MAL": "8.21",
+        "Episodes": "12",
+        "Annee": "2023",
+        "Genre": "Romance"
+      },
+      {
+        "Nom": "Wotakoi",
+        "Note_MAL": "7.91",
+        "Episodes": "11",
+        "Annee": "2018",
+        "Genre": "Romance"
+      },
+      {
+        "Nom": "Nisekoi",
+        "Note_MAL": "7.61",
+        "Episodes": "20",
+        "Annee": "2014",
+        "Genre": "Romance"
+      },
+      {
+        "Nom": "Saiki K.",
+        "Note_MAL": "8.41",
+        "Episodes": "24",
+        "Annee": "2016",
+        "Genre": "Comedy"
+      },
+      {
+        "Nom": "Nichijou",
+        "Note_MAL": "8.51",
+        "Episodes": "26",
+        "Annee": "2011",
+        "Genre": "Comedy"
+      },
+      {
+        "Nom": "Grand Blue",
+        "Note_MAL": "8.41",
+        "Episodes": "12",
+        "Annee": "2018",
+        "Genre": "Comedy"
+      },
+      {
+        "Nom": "Hinamatsuri",
+        "Note_MAL": "8.11",
+        "Episodes": "12",
+        "Annee": "2018",
+        "Genre": "Comedy"
+      },
+      {
+        "Nom": "Btooom!",
+        "Note_MAL": "7.31",
+        "Episodes": "12",
+        "Annee": "2012",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Mirai Nikki",
+        "Note_MAL": "7.81",
+        "Episodes": "26",
+        "Annee": "2011",
+        "Genre": "Thriller"
+      },
+      {
+        "Nom": "Another",
+        "Note_MAL": "7.51",
+        "Episodes": "12",
+        "Annee": "2012",
+        "Genre": "Horror"
+      },
+      {
+        "Nom": "Shiki",
+        "Note_MAL": "7.71",
+        "Episodes": "22",
+        "Annee": "2010",
+        "Genre": "Horror"
+      },
+      {
+        "Nom": "Hellsing Ultimate",
+        "Note_MAL": "8.31",
+        "Episodes": "10",
+        "Annee": "2006",
+        "Genre": "Horror"
+      },
+      {
+        "Nom": "Elfen Lied",
+        "Note_MAL": "7.51",
+        "Episodes": "13",
+        "Annee": "2004",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "Baccano!",
+        "Note_MAL": "8.41",
+        "Episodes": "13",
+        "Annee": "2007",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "Durarara!!",
+        "Note_MAL": "8.11",
+        "Episodes": "24",
+        "Annee": "2010",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "Moriarty the Patriot",
+        "Note_MAL": "8.21",
+        "Episodes": "11",
+        "Annee": "2020",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "To Your Eternity",
+        "Note_MAL": "8.41",
+        "Episodes": "20",
+        "Annee": "2021",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "Ranking of Kings",
+        "Note_MAL": "8.51",
+        "Episodes": "23",
+        "Annee": "2021",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "Cyberpunk: Edgerunners",
+        "Note_MAL": "8.61",
+        "Episodes": "10",
+        "Annee": "2022",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Kaiju No. 8",
+        "Note_MAL": "8.21",
+        "Episodes": "12",
+        "Annee": "2024",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Undead Unluck",
+        "Note_MAL": "8.01",
+        "Episodes": "24",
+        "Annee": "2023",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Black Bullet",
+        "Note_MAL": "7.1",
+        "Episodes": "13",
+        "Annee": "2014",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Akudama Drive",
+        "Note_MAL": "8.0",
+        "Episodes": "12",
+        "Annee": "2020",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "91 Days",
+        "Note_MAL": "8.2",
+        "Episodes": "12",
+        "Annee": "2016",
+        "Genre": "Crime"
+      },
+      {
+        "Nom": "Banana Fish",
+        "Note_MAL": "8.5",
+        "Episodes": "24",
+        "Annee": "2018",
+        "Genre": "Crime"
+      },
+      {
+        "Nom": "Great Pretender",
+        "Note_MAL": "8.3",
+        "Episodes": "23",
+        "Annee": "2020",
+        "Genre": "Crime"
+      },
+      {
+        "Nom": "Orange",
+        "Note_MAL": "7.6",
+        "Episodes": "13",
+        "Annee": "2016",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "ReLIFE",
+        "Note_MAL": "8.0",
+        "Episodes": "13",
+        "Annee": "2016",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "Ao Ashi",
+        "Note_MAL": "8.2",
+        "Episodes": "24",
+        "Annee": "2022",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Baby Steps",
+        "Note_MAL": "8.0",
+        "Episodes": "25",
+        "Annee": "2014",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Sk8 the Infinity",
+        "Note_MAL": "8.1",
+        "Episodes": "12",
+        "Annee": "2021",
+        "Genre": "Sports"
+      },
+      {
+        "Nom": "Vivy",
+        "Note_MAL": "8.4",
+        "Episodes": "13",
+        "Annee": "2021",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Summertime Rendering",
+        "Note_MAL": "8.5",
+        "Episodes": "25",
+        "Annee": "2022",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "Link Click",
+        "Note_MAL": "8.7",
+        "Episodes": "11",
+        "Annee": "2021",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "Tomodachi Game",
+        "Note_MAL": "7.8",
+        "Episodes": "12",
+        "Annee": "2022",
+        "Genre": "Psychological"
+      },
+      {
+        "Nom": "Blue Period",
+        "Note_MAL": "8.0",
+        "Episodes": "12",
+        "Annee": "2021",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "Sonny Boy",
+        "Note_MAL": "7.8",
+        "Episodes": "12",
+        "Annee": "2021",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "The Great Passage",
+        "Note_MAL": "8.1",
+        "Episodes": "11",
+        "Annee": "2016",
+        "Genre": "Drama"
+      },
+      {
+        "Nom": "A Place Further than the Universe",
+        "Note_MAL": "8.6",
+        "Episodes": "13",
+        "Annee": "2018",
+        "Genre": "Adventure"
+      },
+      {
+        "Nom": "Kemono no Souja Erin",
+        "Note_MAL": "8.3",
+        "Episodes": "50",
+        "Annee": "2009",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "Ergo Proxy",
+        "Note_MAL": "7.9",
+        "Episodes": "23",
+        "Annee": "2006",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Gungrave",
+        "Note_MAL": "7.9",
+        "Episodes": "26",
+        "Annee": "2003",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Zankyou no Terror",
+        "Note_MAL": "8.1",
+        "Episodes": "11",
+        "Annee": "2014",
+        "Genre": "Thriller"
+      },
+      {
+        "Nom": "Cautious Hero",
+        "Note_MAL": "7.7",
+        "Episodes": "12",
+        "Annee": "2019",
+        "Genre": "Comedy"
+      },
+      {
+        "Nom": "Golden Kamuy",
+        "Note_MAL": "8.2",
+        "Episodes": "12",
+        "Annee": "2018",
+        "Genre": "Adventure"
+      },
+      {
+        "Nom": "Golden Kamuy S2",
+        "Note_MAL": "8.3",
+        "Episodes": "12",
+        "Annee": "2018",
+        "Genre": "Adventure"
+      },
+      {
+        "Nom": "Golden Kamuy S3",
+        "Note_MAL": "8.5",
+        "Episodes": "12",
+        "Annee": "2020",
+        "Genre": "Adventure"
+      },
+      {
+        "Nom": "Golden Kamuy S4",
+        "Note_MAL": "8.3",
+        "Episodes": "13",
+        "Annee": "2022",
+        "Genre": "Adventure"
+      },
+      {
+        "Nom": "World Trigger",
+        "Note_MAL": "7.9",
+        "Episodes": "73",
+        "Annee": "2014",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "World Trigger 2",
+        "Note_MAL": "8.3",
+        "Episodes": "12",
+        "Annee": "2021",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "World Trigger 3",
+        "Note_MAL": "8.5",
+        "Episodes": "14",
+        "Annee": "2021",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "DARLING in the FRANXX",
+        "Note_MAL": "7.2",
+        "Episodes": "24",
+        "Annee": "2018",
+        "Genre": "Mecha"
+      },
+      {
+        "Nom": "Astra Lost in Space",
+        "Note_MAL": "8.1",
+        "Episodes": "12",
+        "Annee": "2019",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Deca-Dence",
+        "Note_MAL": "7.8",
+        "Episodes": "12",
+        "Annee": "2020",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Kabaneri of the Iron Fortress",
+        "Note_MAL": "7.5",
+        "Episodes": "12",
+        "Annee": "2016",
+        "Genre": "Action"
+      },
+      {
+        "Nom": "Goblin Slayer",
+        "Note_MAL": "7.4",
+        "Episodes": "12",
+        "Annee": "2018",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "The Ancient Magus Bride",
+        "Note_MAL": "8.1",
+        "Episodes": "24",
+        "Annee": "2017",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "Accel World",
+        "Note_MAL": "7.2",
+        "Episodes": "24",
+        "Annee": "2012",
+        "Genre": "Sci-Fi"
+      },
+      {
+        "Nom": "Grimgar",
+        "Note_MAL": "7.7",
+        "Episodes": "12",
+        "Annee": "2016",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "Dorohedoro",
+        "Note_MAL": "8.1",
+        "Episodes": "12",
+        "Annee": "2020",
+        "Genre": "Fantasy"
+      },
+      {
+        "Nom": "ID:INVADED",
+        "Note_MAL": "8.0",
+        "Episodes": "13",
+        "Annee": "2020",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "Erased",
+        "Note_MAL": "8.31",
+        "Episodes": "12",
+        "Annee": "2016",
+        "Genre": "Mystery"
+      },
+      {
+        "Nom": "Parasyte",
+        "Note_MAL": "8.31",
+        "Episodes": "24",
+        "Annee": "2014",
+        "Genre": "Horror"
+      },
+      {
+        "Nom": "Oshi no Ko",
+        "Note_MAL": "8.61",
+        "Episodes": "11",
+        "Annee": "2023",
+        "Genre": "Drama"
+      }
+    ]
+  },
+  {
+    "Id": "1d85e975-b95a-429a-845a-c36a2b78aed4",
+    "Name": "video_games_clean_realistic",
+    "OriginalFileName": "video_games_clean_realistic.csv",
+    "UploadedAt": "2026-07-21T13:52:45.571506Z",
+    "Columns": [
+      "title",
+      "genre",
+      "platform",
+      "year",
+      "rating"
+    ],
+    "Rows": [
+      {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action-Adventure",
+        "platform": "Switch",
+        "year": "2017",
+        "rating": "9.7"
+      },
+      {
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "genre": "Action-Adventure",
+        "platform": "Switch",
+        "year": "2023",
+        "rating": "9.6"
+      },
+      {
+        "title": "Elden Ring",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2022",
+        "rating": "9.5"
+      },
+      {
+        "title": "Dark Souls III",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2016",
+        "rating": "9.1"
+      },
+      {
+        "title": "Sekiro: Shadows Die Twice",
+        "genre": "Action",
+        "platform": "PC/PS4/Xbox",
+        "year": "2019",
+        "rating": "9.3"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "9.9"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2020",
+        "rating": "8.5"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "genre": "Open World",
+        "platform": "PC/PS4/Xbox",
+        "year": "2018",
+        "rating": "9.8"
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genre": "Open World",
+        "platform": "Multi",
+        "year": "2013",
+        "rating": "9.7"
+      },
+      {
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "platform": "Multi",
+        "year": "2011",
+        "rating": "9.0"
+      },
+      {
+        "title": "Fortnite",
+        "genre": "Battle Royale",
+        "platform": "Multi",
+        "year": "2017",
+        "rating": "8.0"
+      },
+      {
+        "title": "Apex Legends",
+        "genre": "Battle Royale",
+        "platform": "Multi",
+        "year": "2019",
+        "rating": "8.7"
+      },
+      {
+        "title": "Overwatch",
+        "genre": "Shooter",
+        "platform": "PC/PS4/Xbox",
+        "year": "2016",
+        "rating": "9.0"
+      },
+      {
+        "title": "Counter-Strike 2",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2023",
+        "rating": "9.0"
+      },
+      {
+        "title": "Valorant",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2020",
+        "rating": "8.8"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare",
+        "genre": "Shooter",
+        "platform": "PC/PS4/Xbox",
+        "year": "2019",
+        "rating": "8.5"
+      },
+      {
+        "title": "Battlefield 1",
+        "genre": "Shooter",
+        "platform": "PC/PS4/Xbox",
+        "year": "2016",
+        "rating": "8.6"
+      },
+      {
+        "title": "Halo Infinite",
+        "genre": "Shooter",
+        "platform": "PC/Xbox",
+        "year": "2021",
+        "rating": "8.5"
+      },
+      {
+        "title": "God of War Ragnar\u00F6k",
+        "genre": "Action",
+        "platform": "PS5",
+        "year": "2022",
+        "rating": "9.7"
+      },
+      {
+        "title": "Horizon Zero Dawn",
+        "genre": "Action-RPG",
+        "platform": "PC/PS4",
+        "year": "2017",
+        "rating": "8.9"
+      },
+      {
+        "title": "Ghost of Tsushima",
+        "genre": "Action",
+        "platform": "PS4/PS5",
+        "year": "2020",
+        "rating": "9.2"
+      },
+      {
+        "title": "The Last of Us Part II",
+        "genre": "Action-Adventure",
+        "platform": "PS4",
+        "year": "2020",
+        "rating": "9.3"
+      },
+      {
+        "title": "Resident Evil 4 Remake",
+        "genre": "Horror",
+        "platform": "PC/PS5/Xbox",
+        "year": "2023",
+        "rating": "9.4"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "genre": "Action-RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2018",
+        "rating": "9.0"
+      },
+      {
+        "title": "Final Fantasy VII Remake",
+        "genre": "RPG",
+        "platform": "PS5/PC",
+        "year": "2020",
+        "rating": "9.2"
+      },
+      {
+        "title": "Persona 5 Royal",
+        "genre": "RPG",
+        "platform": "Multi",
+        "year": "2019",
+        "rating": "9.6"
+      },
+      {
+        "title": "Hollow Knight",
+        "genre": "Metroidvania",
+        "platform": "PC/Switch",
+        "year": "2017",
+        "rating": "9.2"
+      },
+      {
+        "title": "Hades",
+        "genre": "Roguelike",
+        "platform": "PC/Switch",
+        "year": "2020",
+        "rating": "9.3"
+      },
+      {
+        "title": "Stardew Valley",
+        "genre": "Simulation",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "9.1"
+      },
+      {
+        "title": "Celeste",
+        "genre": "Platformer",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.4"
+      },
+      {
+        "title": "Dead Cells",
+        "genre": "Roguelike",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.0"
+      },
+      {
+        "title": "Cuphead",
+        "genre": "Platformer",
+        "platform": "Multi",
+        "year": "2017",
+        "rating": "9.0"
+      },
+      {
+        "title": "Rocket League",
+        "genre": "Sports",
+        "platform": "Multi",
+        "year": "2015",
+        "rating": "8.9"
+      },
+      {
+        "title": "FIFA 23",
+        "genre": "Sports",
+        "platform": "Multi",
+        "year": "2022",
+        "rating": "7.8"
+      },
+      {
+        "title": "Forza Horizon 5",
+        "genre": "Racing",
+        "platform": "PC/Xbox",
+        "year": "2021",
+        "rating": "9.1"
+      },
+      {
+        "title": "Gran Turismo 7",
+        "genre": "Racing",
+        "platform": "PS5",
+        "year": "2022",
+        "rating": "8.8"
+      },
+      {
+        "title": "Civilization VI",
+        "genre": "Strategy",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "9.0"
+      },
+      {
+        "title": "Age of Empires IV",
+        "genre": "Strategy",
+        "platform": "PC",
+        "year": "2021",
+        "rating": "8.7"
+      },
+      {
+        "title": "StarCraft II",
+        "genre": "Strategy",
+        "platform": "PC",
+        "year": "2010",
+        "rating": "9.3"
+      },
+      {
+        "title": "Diablo IV",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2023",
+        "rating": "8.6"
+      },
+      {
+        "title": "Baldur\u2019s Gate 3",
+        "genre": "RPG",
+        "platform": "PC/PS5",
+        "year": "2023",
+        "rating": "9.7"
+      },
+      {
+        "title": "Skyrim",
+        "genre": "RPG",
+        "platform": "Multi",
+        "year": "2011",
+        "rating": "9.4"
+      },
+      {
+        "title": "Fallout 4",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "8.7"
+      },
+      {
+        "title": "No Man\u2019s Sky",
+        "genre": "Adventure",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "8.5"
+      },
+      {
+        "title": "Subnautica",
+        "genre": "Survival",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.0"
+      },
+      {
+        "title": "Rust",
+        "genre": "Survival",
+        "platform": "PC",
+        "year": "2013",
+        "rating": "8.2"
+      },
+      {
+        "title": "Metal Gear Solid V",
+        "genre": "Action-Stealth",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "9.3"
+      },
+      {
+        "title": "Portal 2",
+        "genre": "Puzzle",
+        "platform": "PC/PS3/Xbox",
+        "year": "2011",
+        "rating": "9.8"
+      },
+      {
+        "title": "Half-Life 2",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2004",
+        "rating": "9.7"
+      },
+      {
+        "title": "BioShock",
+        "genre": "Shooter",
+        "platform": "PC/PS3/Xbox",
+        "year": "2007",
+        "rating": "9.6"
+      },
+      {
+        "title": "Mass Effect 2",
+        "genre": "RPG",
+        "platform": "PC/PS3/Xbox",
+        "year": "2010",
+        "rating": "9.6"
+      }
+    ]
+  },
+  {
+    "Id": "8fa6d000-a36d-4ccd-aa93-96fd3291f53a",
+    "Name": "video_games_mixed_test",
+    "OriginalFileName": "video_games_mixed_test.csv",
+    "UploadedAt": "2026-07-21T13:52:58.949333Z",
+    "Columns": [
+      "title",
+      "genre",
+      "platform",
+      "year",
+      "rating"
+    ],
+    "Rows": [
+      {
+        "title": "Elden Ring",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2022",
+        "rating": "9.4"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "9.9"
+      },
+      {
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "platform": "Multi",
+        "year": "2011",
+        "rating": "9.0"
+      },
+      {
+        "title": "Fortnite",
+        "genre": "Battle Royale",
+        "platform": "Multi",
+        "year": "2017",
+        "rating": "8.0"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "genre": "Open World",
+        "platform": "PC/PS4/Xbox",
+        "year": "2018",
+        "rating": "9.8"
+      },
+      {
+        "title": "Portal 2",
+        "genre": "Puzzle",
+        "platform": "PC/PS3/Xbox",
+        "year": "2011",
+        "rating": "9.8"
+      },
+      {
+        "title": "Half-Life 2",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2004",
+        "rating": "9.7"
+      },
+      {
+        "title": "Stardew Valley",
+        "genre": "Simulation",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "9.1"
+      },
+      {
+        "title": "Hades",
+        "genre": "Roguelike",
+        "platform": "PC/Switch",
+        "year": "2020",
+        "rating": "9.3"
+      },
+      {
+        "title": "Celeste",
+        "genre": "Platformer",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.4"
+      },
+      {
+        "title": "Fantasy Game 1",
+        "genre": "Shooter",
+        "platform": "Xbox",
+        "year": "2012",
+        "rating": "7.1"
+      },
+      {
+        "title": "Fantasy Game 2",
+        "genre": "Action",
+        "platform": "PS5",
+        "year": "2019",
+        "rating": "7.9"
+      },
+      {
+        "title": "Fantasy Game 3",
+        "genre": "Action",
+        "platform": "Multi",
+        "year": "2017",
+        "rating": "7.0"
+      },
+      {
+        "title": "Fantasy Game 4",
+        "genre": "Action",
+        "platform": "PS5",
+        "year": "2018",
+        "rating": "8.9"
+      },
+      {
+        "title": "Fantasy Game 5",
+        "genre": "Shooter",
+        "platform": "Switch",
+        "year": "2019",
+        "rating": "8.1"
+      },
+      {
+        "title": "Fantasy Game 6",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2010",
+        "rating": "6.2"
+      },
+      {
+        "title": "Fantasy Game 7",
+        "genre": "Adventure",
+        "platform": "PC",
+        "year": "2016",
+        "rating": "8.2"
+      },
+      {
+        "title": "Fantasy Game 8",
+        "genre": "Action",
+        "platform": "Xbox",
+        "year": "2016",
+        "rating": "8.2"
+      },
+      {
+        "title": "Fantasy Game 9",
+        "genre": "Adventure",
+        "platform": "PS5",
+        "year": "2012",
+        "rating": "8.2"
+      },
+      {
+        "title": "Fantasy Game 10",
+        "genre": "Adventure",
+        "platform": "Xbox",
+        "year": "2023",
+        "rating": "6.8"
+      },
+      {
+        "title": "Fantasy Game 11",
+        "genre": "Adventure",
+        "platform": "Xbox",
+        "year": "2012",
+        "rating": "6.8"
+      },
+      {
+        "title": "Fantasy Game 12",
+        "genre": "RPG",
+        "platform": "Switch",
+        "year": "2015",
+        "rating": "7.9"
+      },
+      {
+        "title": "Fantasy Game 13",
+        "genre": "Action",
+        "platform": "Multi",
+        "year": "2023",
+        "rating": "8.2"
+      },
+      {
+        "title": "Fantasy Game 14",
+        "genre": "Action",
+        "platform": "Switch",
+        "year": "2012",
+        "rating": "6.7"
+      },
+      {
+        "title": "Fantasy Game 15",
+        "genre": "Action",
+        "platform": "Multi",
+        "year": "2013",
+        "rating": "7.2"
+      },
+      {
+        "title": "Fantasy Game 16",
+        "genre": "Action",
+        "platform": "PS5",
+        "year": "2016",
+        "rating": "8.9"
+      },
+      {
+        "title": "Fantasy Game 17",
+        "genre": "RPG",
+        "platform": "Xbox",
+        "year": "2019",
+        "rating": "7.2"
+      },
+      {
+        "title": "Fantasy Game 18",
+        "genre": "Adventure",
+        "platform": "Switch",
+        "year": "2013",
+        "rating": "6.8"
+      },
+      {
+        "title": "Fantasy Game 19",
+        "genre": "Adventure",
+        "platform": "Multi",
+        "year": "2020",
+        "rating": "8.0"
+      },
+      {
+        "title": "Fantasy Game 20",
+        "genre": "RPG",
+        "platform": "PC",
+        "year": "2018",
+        "rating": "7.8"
+      }
+    ]
+  },
+  {
+    "Id": "74d0b594-c58d-4450-a327-224452c41b07",
+    "Name": "orders_dataset",
+    "OriginalFileName": "orders_dataset.csv",
+    "UploadedAt": "2026-07-22T12:25:26.9878989Z",
+    "Columns": [
+      "order_id",
+      "product",
+      "quantity",
+      "unit_price",
+      "total_price",
+      "country"
+    ],
+    "Rows": [
+      {
+        "order_id": "1000",
+        "product": "Headphones",
+        "quantity": "5",
+        "unit_price": "198",
+        "total_price": "990",
+        "country": "UK"
+      },
+      {
+        "order_id": "1001",
+        "product": "Monitor",
+        "quantity": "4",
+        "unit_price": "1315",
+        "total_price": "5260",
+        "country": "France"
+      },
+      {
+        "order_id": "1002",
+        "product": "Camera",
+        "quantity": "3",
+        "unit_price": "804",
+        "total_price": "2412",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1003",
+        "product": "Headphones",
+        "quantity": "2",
+        "unit_price": "1449",
+        "total_price": "2898",
+        "country": "Spain"
+      },
+      {
+        "order_id": "1004",
+        "product": "Mouse",
+        "quantity": "5",
+        "unit_price": "536",
+        "total_price": "2680",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1005",
+        "product": "Monitor",
+        "quantity": "5",
+        "unit_price": "73",
+        "total_price": "365",
+        "country": "UK"
+      },
+      {
+        "order_id": "1006",
+        "product": "Tablet",
+        "quantity": "1",
+        "unit_price": "985",
+        "total_price": "985",
+        "country": "UK"
+      },
+      {
+        "order_id": "1007",
+        "product": "Monitor",
+        "quantity": "5",
+        "unit_price": "1362",
+        "total_price": "6810",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1008",
+        "product": "Monitor",
+        "quantity": "5",
+        "unit_price": "205",
+        "total_price": "1025",
+        "country": "UK"
+      },
+      {
+        "order_id": "1009",
+        "product": "Laptop",
+        "quantity": "1",
+        "unit_price": "638",
+        "total_price": "638",
+        "country": "France"
+      },
+      {
+        "order_id": "1010",
+        "product": "Keyboard",
+        "quantity": "4",
+        "unit_price": "1138",
+        "total_price": "4552",
+        "country": "UK"
+      },
+      {
+        "order_id": "1011",
+        "product": "Laptop",
+        "quantity": "5",
+        "unit_price": "976",
+        "total_price": "4880",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1012",
+        "product": "Smartphone",
+        "quantity": "5",
+        "unit_price": "161",
+        "total_price": "805",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1013",
+        "product": "Camera",
+        "quantity": "1",
+        "unit_price": "244",
+        "total_price": "244",
+        "country": "UK"
+      },
+      {
+        "order_id": "1014",
+        "product": "Tablet",
+        "quantity": "1",
+        "unit_price": "415",
+        "total_price": "415",
+        "country": "UK"
+      },
+      {
+        "order_id": "1015",
+        "product": "Tablet",
+        "quantity": "2",
+        "unit_price": "338",
+        "total_price": "676",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1016",
+        "product": "Laptop",
+        "quantity": "4",
+        "unit_price": "763",
+        "total_price": "3052",
+        "country": "UK"
+      },
+      {
+        "order_id": "1017",
+        "product": "Headphones",
+        "quantity": "5",
+        "unit_price": "1446",
+        "total_price": "7230",
+        "country": "USA"
+      },
+      {
+        "order_id": "1018",
+        "product": "Tablet",
+        "quantity": "5",
+        "unit_price": "1441",
+        "total_price": "7205",
+        "country": "France"
+      },
+      {
+        "order_id": "1019",
+        "product": "Laptop",
+        "quantity": "5",
+        "unit_price": "1349",
+        "total_price": "6745",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1020",
+        "product": "Mouse",
+        "quantity": "5",
+        "unit_price": "1204",
+        "total_price": "6020",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1021",
+        "product": "Camera",
+        "quantity": "1",
+        "unit_price": "628",
+        "total_price": "628",
+        "country": "UK"
+      },
+      {
+        "order_id": "1022",
+        "product": "Smartphone",
+        "quantity": "4",
+        "unit_price": "1049",
+        "total_price": "4196",
+        "country": "USA"
+      },
+      {
+        "order_id": "1023",
+        "product": "Tablet",
+        "quantity": "4",
+        "unit_price": "1461",
+        "total_price": "5844",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1024",
+        "product": "Camera",
+        "quantity": "4",
+        "unit_price": "1305",
+        "total_price": "5220",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1025",
+        "product": "Keyboard",
+        "quantity": "3",
+        "unit_price": "101",
+        "total_price": "303",
+        "country": "France"
+      },
+      {
+        "order_id": "1026",
+        "product": "Headphones",
+        "quantity": "1",
+        "unit_price": "1285",
+        "total_price": "1285",
+        "country": "France"
+      },
+      {
+        "order_id": "1027",
+        "product": "Tablet",
+        "quantity": "3",
+        "unit_price": "1428",
+        "total_price": "4284",
+        "country": "France"
+      },
+      {
+        "order_id": "1028",
+        "product": "Smartphone",
+        "quantity": "5",
+        "unit_price": "1025",
+        "total_price": "5125",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1029",
+        "product": "Laptop",
+        "quantity": "1",
+        "unit_price": "1009",
+        "total_price": "1009",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1030",
+        "product": "Laptop",
+        "quantity": "1",
+        "unit_price": "1130",
+        "total_price": "1130",
+        "country": "UK"
+      },
+      {
+        "order_id": "1031",
+        "product": "Keyboard",
+        "quantity": "2",
+        "unit_price": "1395",
+        "total_price": "2790",
+        "country": "USA"
+      },
+      {
+        "order_id": "1032",
+        "product": "Camera",
+        "quantity": "4",
+        "unit_price": "573",
+        "total_price": "2292",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1033",
+        "product": "Headphones",
+        "quantity": "3",
+        "unit_price": "1068",
+        "total_price": "3204",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1034",
+        "product": "Tablet",
+        "quantity": "1",
+        "unit_price": "1259",
+        "total_price": "1259",
+        "country": "UK"
+      },
+      {
+        "order_id": "1035",
+        "product": "Headphones",
+        "quantity": "1",
+        "unit_price": "1097",
+        "total_price": "1097",
+        "country": "UK"
+      },
+      {
+        "order_id": "1036",
+        "product": "Monitor",
+        "quantity": "5",
+        "unit_price": "842",
+        "total_price": "4210",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1037",
+        "product": "Laptop",
+        "quantity": "2",
+        "unit_price": "622",
+        "total_price": "1244",
+        "country": "UK"
+      },
+      {
+        "order_id": "1038",
+        "product": "Laptop",
+        "quantity": "1",
+        "unit_price": "616",
+        "total_price": "616",
+        "country": "USA"
+      },
+      {
+        "order_id": "1039",
+        "product": "Headphones",
+        "quantity": "4",
+        "unit_price": "274",
+        "total_price": "1096",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1040",
+        "product": "Smartphone",
+        "quantity": "4",
+        "unit_price": "323",
+        "total_price": "1292",
+        "country": "UK"
+      },
+      {
+        "order_id": "1041",
+        "product": "Mouse",
+        "quantity": "5",
+        "unit_price": "979",
+        "total_price": "4895",
+        "country": "UK"
+      },
+      {
+        "order_id": "1042",
+        "product": "Keyboard",
+        "quantity": "1",
+        "unit_price": "310",
+        "total_price": "310",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1043",
+        "product": "Monitor",
+        "quantity": "2",
+        "unit_price": "764",
+        "total_price": "1528",
+        "country": "USA"
+      },
+      {
+        "order_id": "1044",
+        "product": "Keyboard",
+        "quantity": "3",
+        "unit_price": "1030",
+        "total_price": "3090",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1045",
+        "product": "Tablet",
+        "quantity": "2",
+        "unit_price": "362",
+        "total_price": "724",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1046",
+        "product": "Keyboard",
+        "quantity": "3",
+        "unit_price": "1244",
+        "total_price": "3732",
+        "country": "Italy"
+      },
+      {
+        "order_id": "1047",
+        "product": "Headphones",
+        "quantity": "3",
+        "unit_price": "709",
+        "total_price": "2127",
+        "country": "Germany"
+      },
+      {
+        "order_id": "1048",
+        "product": "Monitor",
+        "quantity": "1",
+        "unit_price": "1333",
+        "total_price": "1333",
+        "country": "France"
+      },
+      {
+        "order_id": "1049",
+        "product": "Headphones",
+        "quantity": "4",
+        "unit_price": "567",
+        "total_price": "2268",
+        "country": "USA"
+      }
+    ]
+  },
+  {
+    "Id": "0a402899-33cd-4f11-9630-2800f47fff5f",
+    "Name": "video_games_clean_realistic",
+    "OriginalFileName": "video_games_clean_realistic.csv",
+    "UploadedAt": "2026-07-31T08:29:15.6795421Z",
+    "Columns": [
+      "title",
+      "genre",
+      "platform",
+      "year",
+      "rating"
+    ],
+    "Rows": [
+      {
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "genre": "Action-Adventure",
+        "platform": "Switch",
+        "year": "2017",
+        "rating": "9.7"
+      },
+      {
+        "title": "The Legend of Zelda: Tears of the Kingdom",
+        "genre": "Action-Adventure",
+        "platform": "Switch",
+        "year": "2023",
+        "rating": "9.6"
+      },
+      {
+        "title": "Elden Ring",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2022",
+        "rating": "9.5"
+      },
+      {
+        "title": "Dark Souls III",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2016",
+        "rating": "9.1"
+      },
+      {
+        "title": "Sekiro: Shadows Die Twice",
+        "genre": "Action",
+        "platform": "PC/PS4/Xbox",
+        "year": "2019",
+        "rating": "9.3"
+      },
+      {
+        "title": "The Witcher 3: Wild Hunt",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "9.9"
+      },
+      {
+        "title": "Cyberpunk 2077",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2020",
+        "rating": "8.5"
+      },
+      {
+        "title": "Red Dead Redemption 2",
+        "genre": "Open World",
+        "platform": "PC/PS4/Xbox",
+        "year": "2018",
+        "rating": "9.8"
+      },
+      {
+        "title": "Grand Theft Auto V",
+        "genre": "Open World",
+        "platform": "Multi",
+        "year": "2013",
+        "rating": "9.7"
+      },
+      {
+        "title": "Minecraft",
+        "genre": "Sandbox",
+        "platform": "Multi",
+        "year": "2011",
+        "rating": "9.0"
+      },
+      {
+        "title": "Fortnite",
+        "genre": "Battle Royale",
+        "platform": "Multi",
+        "year": "2017",
+        "rating": "8.0"
+      },
+      {
+        "title": "Apex Legends",
+        "genre": "Battle Royale",
+        "platform": "Multi",
+        "year": "2019",
+        "rating": "8.7"
+      },
+      {
+        "title": "Overwatch",
+        "genre": "Shooter",
+        "platform": "PC/PS4/Xbox",
+        "year": "2016",
+        "rating": "9.0"
+      },
+      {
+        "title": "Counter-Strike 2",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2023",
+        "rating": "9.0"
+      },
+      {
+        "title": "Valorant",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2020",
+        "rating": "8.8"
+      },
+      {
+        "title": "Call of Duty: Modern Warfare",
+        "genre": "Shooter",
+        "platform": "PC/PS4/Xbox",
+        "year": "2019",
+        "rating": "8.5"
+      },
+      {
+        "title": "Battlefield 1",
+        "genre": "Shooter",
+        "platform": "PC/PS4/Xbox",
+        "year": "2016",
+        "rating": "8.6"
+      },
+      {
+        "title": "Halo Infinite",
+        "genre": "Shooter",
+        "platform": "PC/Xbox",
+        "year": "2021",
+        "rating": "8.5"
+      },
+      {
+        "title": "God of War Ragnar\u00F6k",
+        "genre": "Action",
+        "platform": "PS5",
+        "year": "2022",
+        "rating": "9.7"
+      },
+      {
+        "title": "Horizon Zero Dawn",
+        "genre": "Action-RPG",
+        "platform": "PC/PS4",
+        "year": "2017",
+        "rating": "8.9"
+      },
+      {
+        "title": "Ghost of Tsushima",
+        "genre": "Action",
+        "platform": "PS4/PS5",
+        "year": "2020",
+        "rating": "9.2"
+      },
+      {
+        "title": "The Last of Us Part II",
+        "genre": "Action-Adventure",
+        "platform": "PS4",
+        "year": "2020",
+        "rating": "9.3"
+      },
+      {
+        "title": "Resident Evil 4 Remake",
+        "genre": "Horror",
+        "platform": "PC/PS5/Xbox",
+        "year": "2023",
+        "rating": "9.4"
+      },
+      {
+        "title": "Monster Hunter: World",
+        "genre": "Action-RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2018",
+        "rating": "9.0"
+      },
+      {
+        "title": "Final Fantasy VII Remake",
+        "genre": "RPG",
+        "platform": "PS5/PC",
+        "year": "2020",
+        "rating": "9.2"
+      },
+      {
+        "title": "Persona 5 Royal",
+        "genre": "RPG",
+        "platform": "Multi",
+        "year": "2019",
+        "rating": "9.6"
+      },
+      {
+        "title": "Hollow Knight",
+        "genre": "Metroidvania",
+        "platform": "PC/Switch",
+        "year": "2017",
+        "rating": "9.2"
+      },
+      {
+        "title": "Hades",
+        "genre": "Roguelike",
+        "platform": "PC/Switch",
+        "year": "2020",
+        "rating": "9.3"
+      },
+      {
+        "title": "Stardew Valley",
+        "genre": "Simulation",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "9.1"
+      },
+      {
+        "title": "Celeste",
+        "genre": "Platformer",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.4"
+      },
+      {
+        "title": "Dead Cells",
+        "genre": "Roguelike",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.0"
+      },
+      {
+        "title": "Cuphead",
+        "genre": "Platformer",
+        "platform": "Multi",
+        "year": "2017",
+        "rating": "9.0"
+      },
+      {
+        "title": "Rocket League",
+        "genre": "Sports",
+        "platform": "Multi",
+        "year": "2015",
+        "rating": "8.9"
+      },
+      {
+        "title": "FIFA 23",
+        "genre": "Sports",
+        "platform": "Multi",
+        "year": "2022",
+        "rating": "7.8"
+      },
+      {
+        "title": "Forza Horizon 5",
+        "genre": "Racing",
+        "platform": "PC/Xbox",
+        "year": "2021",
+        "rating": "9.1"
+      },
+      {
+        "title": "Gran Turismo 7",
+        "genre": "Racing",
+        "platform": "PS5",
+        "year": "2022",
+        "rating": "8.8"
+      },
+      {
+        "title": "Civilization VI",
+        "genre": "Strategy",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "9.0"
+      },
+      {
+        "title": "Age of Empires IV",
+        "genre": "Strategy",
+        "platform": "PC",
+        "year": "2021",
+        "rating": "8.7"
+      },
+      {
+        "title": "StarCraft II",
+        "genre": "Strategy",
+        "platform": "PC",
+        "year": "2010",
+        "rating": "9.3"
+      },
+      {
+        "title": "Diablo IV",
+        "genre": "RPG",
+        "platform": "PC/PS5/Xbox",
+        "year": "2023",
+        "rating": "8.6"
+      },
+      {
+        "title": "Baldur\u2019s Gate 3",
+        "genre": "RPG",
+        "platform": "PC/PS5",
+        "year": "2023",
+        "rating": "9.7"
+      },
+      {
+        "title": "Skyrim",
+        "genre": "RPG",
+        "platform": "Multi",
+        "year": "2011",
+        "rating": "9.4"
+      },
+      {
+        "title": "Fallout 4",
+        "genre": "RPG",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "8.7"
+      },
+      {
+        "title": "No Man\u2019s Sky",
+        "genre": "Adventure",
+        "platform": "Multi",
+        "year": "2016",
+        "rating": "8.5"
+      },
+      {
+        "title": "Subnautica",
+        "genre": "Survival",
+        "platform": "Multi",
+        "year": "2018",
+        "rating": "9.0"
+      },
+      {
+        "title": "Rust",
+        "genre": "Survival",
+        "platform": "PC",
+        "year": "2013",
+        "rating": "8.2"
+      },
+      {
+        "title": "Metal Gear Solid V",
+        "genre": "Action-Stealth",
+        "platform": "PC/PS4/Xbox",
+        "year": "2015",
+        "rating": "9.3"
+      },
+      {
+        "title": "Portal 2",
+        "genre": "Puzzle",
+        "platform": "PC/PS3/Xbox",
+        "year": "2011",
+        "rating": "9.8"
+      },
+      {
+        "title": "Half-Life 2",
+        "genre": "Shooter",
+        "platform": "PC",
+        "year": "2004",
+        "rating": "9.7"
+      },
+      {
+        "title": "BioShock",
+        "genre": "Shooter",
+        "platform": "PC/PS3/Xbox",
+        "year": "2007",
+        "rating": "9.6"
+      },
+      {
+        "title": "Mass Effect 2",
+        "genre": "RPG",
+        "platform": "PC/PS3/Xbox",
+        "year": "2010",
+        "rating": "9.6"
+      }
+    ]
+  }
+]

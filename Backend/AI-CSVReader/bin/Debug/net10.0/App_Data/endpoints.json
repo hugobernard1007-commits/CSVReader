@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "b6ecb887-0c39-4af4-ae27-5327f84a2491",
+    "Name": "test",
+    "Slug": "jeux",
+    "DatasetId": "1d85e975-b95a-429a-845a-c36a2b78aed4",
+    "Columns": [
+      "title",
+      "genre",
+      "platform",
+      "year",
+      "rating"
+    ],
+    "Description": "Liste de jeux",
+    "CreatedAt": "2026-07-21T14:05:53.8385994Z",
+    "Url": "/api/public/jeux"
+  },
+  {
+    "Id": "8575f38b-07f1-48ec-9b04-782cfbaf6d52",
+    "Name": "Produits",
+    "Slug": "produits",
+    "DatasetId": "74d0b594-c58d-4450-a327-224452c41b07",
+    "Columns": [
+      "order_id",
+      "product",
+      "quantity",
+      "unit_price",
+      "total_price",
+      "country"
+    ],
+    "Description": "Liste de produits",
+    "CreatedAt": "2026-07-22T12:25:40.9697646Z",
+    "Url": "/api/public/produits"
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "Id": 2,
+  "Name": "video_games_mixed_test",
+  "OriginalFileName": "video_games_mixed_test.csv",
+  "UploadedAt": "2026-08-04T09:37:34.4679625Z",
+  "SizeBytes": 1199,
+  "Headers": [
+    "title",
+    "genre",
+    "platform",
+    "year",
+    "rating"
+  ],
+  "Rows": [
+    {
+      "title": "Elden Ring",
+      "genre": "RPG",
+      "platform": "PC/PS5/Xbox",
+      "year": "2022",
+      "rating": "9.4"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "platform": "PC/PS4/Xbox",
+      "year": "2015",
+      "rating": "9.9"
+    },
+    {
+      "title": "Minecraft",
+      "genre": "Sandbox",
+      "platform": "Multi",
+      "year": "2011",
+      "rating": "9.0"
+    },
+    {
+      "title": "Fortnite",
+      "genre": "Battle Royale",
+      "platform": "Multi",
+      "year": "2017",
+      "rating": "8.0"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "genre": "Open World",
+      "platform": "PC/PS4/Xbox",
+      "year": "2018",
+      "rating": "9.8"
+    },
+    {
+      "title": "Portal 2",
+      "genre": "Puzzle",
+      "platform": "PC/PS3/Xbox",
+      "year": "2011",
+      "rating": "9.8"
+    },
+    {
+      "title": "Half-Life 2",
+      "genre": "Shooter",
+      "platform": "PC",
+      "year": "2004",
+      "rating": "9.7"
+    },
+    {
+      "title": "Stardew Valley",
+      "genre": "Simulation",
+      "platform": "Multi",
+      "year": "2016",
+      "rating": "9.1"
+    },
+    {
+      "title": "Hades",
+      "genre": "Roguelike",
+      "platform": "PC/Switch",
+      "year": "2020",
+      "rating": "9.3"
+    },
+    {
+      "title": "Celeste",
+      "genre": "Platformer",
+      "platform": "Multi",
+      "year": "2018",
+      "rating": "9.4"
+    },
+    {
+      "title": "Fantasy Game 1",
+      "genre": "Shooter",
+      "platform": "Xbox",
+      "year": "2012",
+      "rating": "7.1"
+    },
+    {
+      "title": "Fantasy Game 2",
+      "genre": "Action",
+      "platform": "PS5",
+      "year": "2019",
+      "rating": "7.9"
+    },
+    {
+      "title": "Fantasy Game 3",
+      "genre": "Action",
+      "platform": "Multi",
+      "year": "2017",
+      "rating": "7.0"
+    },
+    {
+      "title": "Fantasy Game 4",
+      "genre": "Action",
+      "platform": "PS5",
+      "year": "2018",
+      "rating": "8.9"
+    },
+    {
+      "title": "Fantasy Game 5",
+      "genre": "Shooter",
+      "platform": "Switch",
+      "year": "2019",
+      "rating": "8.1"
+    },
+    {
+      "title": "Fantasy Game 6",
+      "genre": "Shooter",
+      "platform": "PC",
+      "year": "2010",
+      "rating": "6.2"
+    },
+    {
+      "title": "Fantasy Game 7",
+      "genre": "Adventure",
+      "platform": "PC",
+      "year": "2016",
+      "rating": "8.2"
+    },
+    {
+      "title": "Fantasy Game 8",
+      "genre": "Action",
+      "platform": "Xbox",
+      "year": "2016",
+      "rating": "8.2"
+    },
+    {
+      "title": "Fantasy Game 9",
+      "genre": "Adventure",
+      "platform": "PS5",
+      "year": "2012",
+      "rating": "8.2"
+    },
+    {
+      "title": "Fantasy Game 10",
+      "genre": "Adventure",
+      "platform": "Xbox",
+      "year": "2023",
+      "rating": "6.8"
+    },
+    {
+      "title": "Fantasy Game 11",
+      "genre": "Adventure",
+      "platform": "Xbox",
+      "year": "2012",
+      "rating": "6.8"
+    },
+    {
+      "title": "Fantasy Game 12",
+      "genre": "RPG",
+      "platform": "Switch",
+      "year": "2015",
+      "rating": "7.9"
+    },
+    {
+      "title": "Fantasy Game 13",
+      "genre": "Action",
+      "platform": "Multi",
+      "year": "2023",
+      "rating": "8.2"
+    },
+    {
+      "title": "Fantasy Game 14",
+      "genre": "Action",
+      "platform": "Switch",
+      "year": "2012",
+      "rating": "6.7"
+    },
+    {
+      "title": "Fantasy Game 15",
+      "genre": "Action",
+      "platform": "Multi",
+      "year": "2013",
+      "rating": "7.2"
+    },
+    {
+      "title": "Fantasy Game 16",
+      "genre": "Action",
+      "platform": "PS5",
+      "year": "2016",
+      "rating": "8.9"
+    },
+    {
+      "title": "Fantasy Game 17",
+      "genre": "RPG",
+      "platform": "Xbox",
+      "year": "2019",
+      "rating": "7.2"
+    },
+    {
+      "title": "Fantasy Game 18",
+      "genre": "Adventure",
+      "platform": "Switch",
+      "year": "2013",
+      "rating": "6.8"
+    },
+    {
+      "title": "Fantasy Game 19",
+      "genre": "Adventure",
+      "platform": "Multi",
+      "year": "2020",
+      "rating": "8.0"
+    },
+    {
+      "title": "Fantasy Game 20",
+      "genre": "RPG",
+      "platform": "PC",
+      "year": "2018",
+      "rating": "7.8"
+    }
+  ]
+}

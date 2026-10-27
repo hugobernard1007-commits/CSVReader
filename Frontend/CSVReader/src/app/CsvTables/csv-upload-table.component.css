@@ -1,0 +1,199 @@
+/* ── Tokens ── */
+:host {
+  --c-bg:      #f6f7f9;
+  --c-surface: #ffffff;
+  --c-border:  #e2e6ea;
+  --c-text:    #1a1f2e;
+  --c-muted:   #6b7280;
+  --c-accent:  #4f6ef7;
+
+  --c-csv1:    #3b82f6;
+  --c-csv2:    #8b5cf6;
+  --c-diff:    #f59e0b;
+  --c-empty:   #9ca3af;
+
+  --c-only1-bg: #dbeafe;
+  --c-only2-bg: #ede9fe;
+  --c-diff-bg:  #fef3c7;
+  --c-empty-bg: #f3f4f6;
+
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--c-text);
+  display: block;
+  background: var(--c-bg);
+  padding: 2rem;
+}
+
+/* ── Upload zone ── */
+.upload-zone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 3rem 2rem;
+  border: 2px dashed var(--c-border);
+  border-radius: 12px;
+  background: var(--c-surface);
+  text-align: center;
+  margin-bottom: 2rem;
+  transition: border-color 0.2s;
+}
+.upload-zone:hover { border-color: var(--c-accent); }
+
+.upload-icon {
+  font-size: 2.5rem;
+  color: var(--c-muted);
+}
+
+.upload-zone h2 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.upload-zone p {
+  margin: 0;
+  color: var(--c-muted);
+  font-size: 0.9rem;
+}
+
+/* ── Section card ── */
+.section-card {
+  background: var(--c-surface);
+  border: 1px solid var(--c-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+}
+
+/* ── Section header ── */
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--c-border);
+}
+
+.section-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #fff;
+}
+.badge-csv1 { background: var(--c-csv1); }
+.badge-csv2 { background: var(--c-csv2); }
+.badge-diff { background: var(--c-diff); color: #1a1f2e; }
+
+.section-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.section-meta {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: var(--c-muted);
+}
+
+/* ── Toolbar ── */
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.75rem;
+}
+
+.toolbar-right {
+  margin-left: auto;
+  display: flex;
+  gap: 0.5rem;
+}
+
+/* ── Diff cell colors ── */
+/* ViewEncapsulation.Emulated bloque les styles sur les enfants PrimeNG,
+   on passe par ::ng-deep uniquement pour les cellules td */
+:host ::ng-deep td.diff-cell { background: var(--c-diff-bg)  !important; }
+:host ::ng-deep td.only-in-1 { background: var(--c-only1-bg) !important; }
+:host ::ng-deep td.only-in-2 { background: var(--c-only2-bg) !important; }
+
+/* ── Legend ── */
+.legend {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+  padding: 0.75rem 1rem;
+  background: var(--c-bg);
+  border-radius: 8px;
+  font-size: 0.8rem;
+  color: var(--c-muted);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.legend-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.diff-dot  { background: var(--c-diff-bg);  border: 1px solid var(--c-diff); }
+.only1-dot { background: var(--c-only1-bg); border: 1px solid var(--c-csv1); }
+.only2-dot { background: var(--c-only2-bg); border: 1px solid var(--c-csv2);}
+.empty-dot { background: var(--c-empty-bg); border: 1px solid var(--c-empty); }
+
+/* ── Key column selector ── */
+.key-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  padding: 0.875rem 1rem;
+  background: var(--c-bg);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center;
+  padding: 2rem;
+  color: var(--c-muted);
+  font-size: 0.9rem;
+}
+
+.empty-state i {
+  font-size: 1.75rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.success-icon { color: #22c55e; }
+
+.btnDeleteCSV {
+  background-color: #ef4444;
+  fill: #ef4444;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}

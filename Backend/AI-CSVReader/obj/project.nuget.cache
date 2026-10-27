@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "E8B7f7lONdw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugo.bernard\\Documents\\Projet Dev-Dev IA\\Backend\\AI-CSVReader\\AI-CSVReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.bernard\\.nuget\\packages\\csvhelper\\33.1.0\\csvhelper.33.1.0.nupkg.sha512",
+    "C:\\Users\\hugo.bernard\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\hugo.bernard\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\hugo.bernard\\Documents\\Projet Dev-Dev IA\\Backend\\AI-CSVReader\\AI-CSVReader.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hugo.bernard\\Documents\\Projet Dev-Dev IA\\Backend\\AI-CSVReader\\AI-CSVReader.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

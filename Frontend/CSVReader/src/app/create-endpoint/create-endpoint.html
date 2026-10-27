@@ -1,0 +1,39 @@
+<div class="section-card">
+  <div class="section-header">
+    <h3 class="section-title">Publier un fichier CSV</h3>
+  </div>
+
+  <div class="upload-zone">
+    <i class="pi pi-cloud-upload upload-icon"></i>
+    <h2>Importer un CSV à publier</h2>
+    <p>Le fichier sera accessible via une URL publique</p>
+
+    @if (isLoading) {
+      <i class="pi pi-spinner pi-spin" style="font-size:1.5rem"></i>
+    } @else {
+      <p-fileupload
+        mode="basic" name="file" accept=".csv"
+        [auto]="true" [customUpload]="true"
+        (uploadHandler)="onUpload($event)"
+        chooseLabel="Choisir un fichier" />
+    }
+
+    @if (errorMessage) {
+      <span class="error-msg">{{ errorMessage }}</span>
+    }
+  </div>
+
+  @if (generatedUrl) {
+    <div class="url-result">
+      <i class="pi pi-check-circle" style="color: #22c55e; font-size:1.25rem"></i>
+      <span class="url-label">Votre endpoint :</span>
+      <code class="url-code">{{ generatedUrl }}</code>
+      <p-button
+        icon="pi pi-copy"
+        label="Copier"
+        size="small"
+        [outlined]="true"
+        (click)="copyUrl()" />
+    </div>
+  }
+</div>

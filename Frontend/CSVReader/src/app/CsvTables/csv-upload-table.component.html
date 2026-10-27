@@ -1,0 +1,306 @@
+<!-- ── UPLOAD CSV 1 ── -->
+@if (!data1.length) {
+<div class="upload-zone">
+  <i class="pi pi-file-import upload-icon"></i>
+  <h2>Importer un premier CSV</h2>
+  <p>Glissez un fichier ou cliquez pour parcourir</p>
+
+  @if (isLoading) {
+    <i class="pi pi-spinner pi-spin" style="font-size:1.5rem"></i>
+  } @else {
+    <p-fileupload mode="basic" name="csv1" accept=".csv"
+      [auto]="true" [customUpload]="true"
+      (uploadHandler)="onUpload($event, 1)"
+      chooseLabel="Choisir un fichier" />
+  }
+
+  @if (errorMessage) {
+    <span style="color: #ef4444; font-size: 0.85rem">{{ errorMessage }}</span>
+  }
+</div>
+
+} @else {
+
+
+
+
+  
+  <!-- ── TABLE 1 ── -->
+  <div class="section-card">
+    <div class="section-header">
+      <span class="section-badge badge-csv1">CSV 1</span>
+      <h3 class="section-title">Données source : {{ fileName1 }}</h3>
+      <span class="section-meta">{{ data1.length }} lignes · {{ columns1.length }} colonnes</span>
+    </div>
+
+    <p-table #dt1 stripedRows [value]="data1" 
+      class="p-datatable-striped" 
+      [reorderableColumns]="true" 
+      columnResizeMode="expand" 
+      [scrollable]="true"
+      [paginator]="true" [rows]="5" 
+      [rowsPerPageOptions]="[5,10,20]" 
+      [columns]="selectedColumns1" 
+      [resizableColumns]="true"
+      [globalFilterFields]="filterFields1">
+      <ng-template #caption>
+        <div class="toolbar">
+          <p-multiselect
+            display="chip"
+            [options]="columns1"
+            [(ngModel)]="selectedColumns1"
+            optionLabel="header"
+            dataKey="field"
+            [maxSelectedLabels]="0"
+            selectedItemsLabel="{0} colonnes"
+            [style]="{'min-width':'180px'}"
+            placeholder="Colonnes" />
+            <div class="toolbar-right">
+              <p-iconfield iconPosition="left">
+              <p-inputicon><i class="pi pi-search"></i></p-inputicon>
+              <input pInputText type="text"
+                (input)="dt1.filterGlobal(asInputEl($event).value, 'contains')"
+                placeholder="Rechercher…" />
+            </p-iconfield>
+            </div>
+          <div class="toolbar-right">
+            <p-button icon="pi pi-check" label="Exporter" size="small" (click)="dt1.exportCSV()"></p-button>
+            <p-button icon="pi pi-trash" label="Supprimer" size="small" (click)="deleteCsv(1)" />
+          </div>
+        </div>
+      </ng-template>
+      <ng-template pTemplate="header">
+        <tr>
+          @for (col of selectedColumns1; track col.field) {
+            <th  [pSortableColumn]="col.field" pReorderableColumn pResizableColumn >
+              <div class="flex items-center gap-2">{{ col.header }}<p-sortIcon [field]="col.field" /></div>
+            </th>
+          }
+        </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-row>
+        <tr>
+          @for (col of selectedColumns1; track col.field) {
+            <td>{{ row[col.field] }}</td>
+          }
+        </tr>
+      </ng-template>
+    </p-table>
+  </div>
+
+  <!-- ── UPLOAD CSV 2 ── -->
+  @if (!data2.length) {
+    <div class="upload-zone">
+      <i class="pi pi-file-import upload-icon" style="color: var(--c-csv2)"></i>
+      <h2>Importer un second CSV à comparer</h2>
+      <p>Même structure recommandée si vous voulez comparer les deux fichiers.</p>
+      <p-fileupload mode="basic" name="csv2" accept=".csv"
+        [auto]="true" [customUpload]="true"
+        (uploadHandler)="onUpload($event, 2)"
+        chooseLabel="Choisir un fichier" />
+    </div>
+
+  } @else {
+
+
+
+
+
+
+
+    <!-- ── TABLE 2 ── -->
+    <div class="section-card">
+      <div class="section-header">
+        <span class="section-badge badge-csv2">CSV 2</span>
+        <h3 class="section-title">Données à comparer : {{ fileName2 }}</h3>
+        <span class="section-meta">{{ data2.length }} lignes · {{ columns2.length }} colonnes</span>
+      </div>
+
+      <p-table #dt2 stripedRows [value]="data2" 
+        class="p-datatable-striped" 
+        [columns]="selectedColumns1" 
+        columnResizeMode="expand" 
+        [scrollable]="true"
+        [paginator]="true" [rows]="5" 
+        [rowsPerPageOptions]="[5,10,20]" 
+        [reorderableColumns]="true" 
+        [resizableColumns]="true"
+        [globalFilterFields]="filterFields2">
+        <ng-template #caption>
+          <div class="toolbar">
+            <p-multiselect
+              display="chip"
+              [options]="columns2"
+              [(ngModel)]="selectedColumns2"
+              optionLabel="header"
+              dataKey="field"
+              [maxSelectedLabels]="0"
+              selectedItemsLabel="{0} colonnes"
+              [style]="{'min-width':'180px'}"
+              placeholder="Colonnes" />
+              <div class="toolbar-right">
+                <p-iconfield iconPosition="left">
+                <p-inputicon><i class="pi pi-search"></i></p-inputicon>
+                <input pInputText type="text"
+                  (input)="dt2.filterGlobal(asInputEl($event).value, 'contains')"
+                  placeholder="Rechercher…" />
+              </p-iconfield>
+              </div>
+            <div class="toolbar-right">
+              <p-button icon="pi pi-download" label="Exporter" size="small" (click)="dt2.exportCSV()" />
+              <p-button icon="pi pi-trash" label="Supprimer" size="small" (click)="deleteCsv(2)" />
+            </div>
+          </div>
+        </ng-template>
+        <ng-template pTemplate="header">
+          <tr>
+            @for (col of selectedColumns2; track col.field) {
+              <th [pSortableColumn]="col.field" pReorderableColumn pResizableColumn >
+                <div class="flex items-center gap-2">{{ col.header }}<p-sortIcon [field]="col.field" /></div>
+              </th>
+            }
+          </tr>
+        </ng-template>
+        <ng-template pTemplate="body" let-row>
+          <tr>
+            @for (col of selectedColumns2; track col.field) {
+              <td>{{ row[col.field] }}</td>
+            }
+          </tr>
+        </ng-template>
+      </p-table>
+    </div>
+
+
+
+
+
+
+
+
+
+    <!-- ── COMPARAISON ── -->
+    <div class="section-card">
+      <div class="section-header">
+        <span class="section-badge badge-diff">Diff</span>
+        <h3 class="section-title">Comparaison</h3>
+        @if (diffRows.length) {
+          <span class="section-meta">{{ diffCount }} différence(s) trouvée(s)</span>
+        }
+      </div>
+
+      <div class="key-selector" hidden>
+        <i class="pi pi-key" style="color: var(--c-accent)"></i>
+        <label>Colonne clé :</label>
+        <p-select
+          [options]="commonColumns"
+          [(ngModel)]="keyColumn"
+          (onChange)="buildDiff()"
+          placeholder="Choisir une colonne clé"
+          [style]="{'min-width':'200px'}" />
+      </div>
+
+      @if (keyColumn && diffRows.length) {
+        <div class="legend">
+          <span class="legend-item">
+            <span class="legend-dot diff-dot"></span>
+            Valeur différente
+          </span>
+          <span class="legend-item">
+            <span class="legend-dot only1-dot"></span>
+            Présent uniquement dans CSV 1
+          </span>
+          <span class="legend-item">
+            <span class="legend-dot only2-dot"></span>
+            Présent uniquement dans CSV 2
+          </span>
+          <span class="legend-item">
+            <span class="legend-dot empty-dot"></span>
+            Valeur identique
+          </span>
+        </div>
+
+        <p-table #dtDiff stripedRows 
+          [value]="diffRows" 
+          class="p-datatable-striped" 
+          [reorderableColumns]="true" 
+          [resizableColumns]="true"
+          [paginator]="true" [rows]="5" 
+          [rowsPerPageOptions]="[5,10,20]" 
+          [columns]="selectedColumnsDiff"> 
+          <ng-template #caption>
+            <div class="toolbar">
+              <p-multiselect
+              display="chip"
+              [options]="allColumns"
+              [(ngModel)]="selectedColumnsDiff"
+              optionLabel="header"
+              dataKey="field"
+              [maxSelectedLabels]="0"
+              selectedItemsLabel="{0} colonnes"
+              [style]="{'min-width':'180px'}"
+              placeholder="Colonnes" />
+              <p-button
+                [label]="showDiffOnly ? 'Tout afficher' : 'Différences uniquement'"
+                [outlined]="true"
+                [icon]="showDiffOnly ? 'pi pi-list' : 'pi pi-filter'"
+                size="small"
+                (click)="toggleDiffOnly()"
+              />
+              <div class="toolbar-right">
+                <p-button icon="pi pi-download" label="Exporter" size="small" (click)="dtDiff.exportCSV()"/>
+              </div>
+            </div>
+          </ng-template>
+          <ng-template pTemplate="header">
+            <tr>
+              @for (col of selectedColumnsDiff; track col.field) {
+                <th [pSortableColumn]="col.field" pReorderableColumn pResizableColumn >
+                  <div class="flex items-center gap-2">{{ col.header }}<p-sortIcon [field]="col.field" /></div>
+                </th>
+              }
+            </tr>
+          </ng-template>
+          <ng-template pTemplate="body" let-row>
+            <tr>
+              @for (col of selectedColumnsDiff; track col.field) {
+                <td [ngClass]="getCellClass(row, col)">
+                  @if (getCellClass(row, col) === 'diff-cell') {
+                    <div class="diff-values">
+                      <span class="diff-val val-1" title="CSV 1">{{ row[col.field] ?? '—' }}</span>
+                      <span class="diff-arrow">→</span>
+                      <span class="diff-val val-2" title="CSV 2">{{ getCell2Value(row, col) ?? '—' }}</span>
+                    </div>
+                  } @else {
+                    {{ row[col.field] ?? '—' }}
+                  }
+                </td>
+              }
+            </tr>
+          </ng-template>
+        </p-table>
+
+
+      } @else if (keyColumn && !diffRows.length) {
+        <div class="empty-state">
+          <i class="pi pi-check-circle success-icon"></i>
+          Aucune différence trouvée — les deux fichiers sont identiques sur cette clé.
+        </div>
+      } @else if (allKeysSize === 0) {
+        <div class="empty-state">
+          <i class="pi pi-times-circle" style="color: #ef4444"></i>
+          Les deux fichiers n'ont aucune colonne en commun — impossible de définir une clé.
+        </div>
+      } @else {
+        <div class="empty-state">
+          <i class="pi pi-arrow-up"></i>
+          Sélectionnez une colonne clé pour lancer la comparaison.
+        </div>
+      }
+    </div>
+    
+  }
+  <div> 
+    <button pButton type="button" pButtonIcon ="pi pi-plus" label="Créer un endpoint avec un CSV" (click)="navigateToCreateEP()" class=" p-button-sm"></button>
+  </div>
+}

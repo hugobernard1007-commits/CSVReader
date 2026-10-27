@@ -1,0 +1,373 @@
+{
+  "Id": 1,
+  "Name": "video_games_clean_realistic",
+  "OriginalFileName": "video_games_clean_realistic.csv",
+  "UploadedAt": "2026-08-06T09:03:40.9185785Z",
+  "SizeBytes": 2140,
+  "Headers": [
+    "title",
+    "genre",
+    "platform",
+    "year",
+    "rating"
+  ],
+  "Rows": [
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "genre": "Action-Adventure",
+      "platform": "Switch",
+      "year": "2017",
+      "rating": "9.7"
+    },
+    {
+      "title": "The Legend of Zelda: Tears of the Kingdom",
+      "genre": "Action-Adventure",
+      "platform": "Switch",
+      "year": "2023",
+      "rating": "9.6"
+    },
+    {
+      "title": "Elden Ring",
+      "genre": "RPG",
+      "platform": "PC/PS5/Xbox",
+      "year": "2022",
+      "rating": "9.5"
+    },
+    {
+      "title": "Dark Souls III",
+      "genre": "RPG",
+      "platform": "PC/PS4/Xbox",
+      "year": "2016",
+      "rating": "9.1"
+    },
+    {
+      "title": "Sekiro: Shadows Die Twice",
+      "genre": "Action",
+      "platform": "PC/PS4/Xbox",
+      "year": "2019",
+      "rating": "9.3"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "genre": "RPG",
+      "platform": "PC/PS4/Xbox",
+      "year": "2015",
+      "rating": "9.9"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "genre": "RPG",
+      "platform": "PC/PS5/Xbox",
+      "year": "2020",
+      "rating": "8.5"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "genre": "Open World",
+      "platform": "PC/PS4/Xbox",
+      "year": "2018",
+      "rating": "9.8"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "genre": "Open World",
+      "platform": "Multi",
+      "year": "2013",
+      "rating": "9.7"
+    },
+    {
+      "title": "Minecraft",
+      "genre": "Sandbox",
+      "platform": "Multi",
+      "year": "2011",
+      "rating": "9.0"
+    },
+    {
+      "title": "Fortnite",
+      "genre": "Battle Royale",
+      "platform": "Multi",
+      "year": "2017",
+      "rating": "8.0"
+    },
+    {
+      "title": "Apex Legends",
+      "genre": "Battle Royale",
+      "platform": "Multi",
+      "year": "2019",
+      "rating": "8.7"
+    },
+    {
+      "title": "Overwatch",
+      "genre": "Shooter",
+      "platform": "PC/PS4/Xbox",
+      "year": "2016",
+      "rating": "9.0"
+    },
+    {
+      "title": "Counter-Strike 2",
+      "genre": "Shooter",
+      "platform": "PC",
+      "year": "2023",
+      "rating": "9.0"
+    },
+    {
+      "title": "Valorant",
+      "genre": "Shooter",
+      "platform": "PC",
+      "year": "2020",
+      "rating": "8.8"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare",
+      "genre": "Shooter",
+      "platform": "PC/PS4/Xbox",
+      "year": "2019",
+      "rating": "8.5"
+    },
+    {
+      "title": "Battlefield 1",
+      "genre": "Shooter",
+      "platform": "PC/PS4/Xbox",
+      "year": "2016",
+      "rating": "8.6"
+    },
+    {
+      "title": "Halo Infinite",
+      "genre": "Shooter",
+      "platform": "PC/Xbox",
+      "year": "2021",
+      "rating": "8.5"
+    },
+    {
+      "title": "God of War Ragnar\u00F6k",
+      "genre": "Action",
+      "platform": "PS5",
+      "year": "2022",
+      "rating": "9.7"
+    },
+    {
+      "title": "Horizon Zero Dawn",
+      "genre": "Action-RPG",
+      "platform": "PC/PS4",
+      "year": "2017",
+      "rating": "8.9"
+    },
+    {
+      "title": "Ghost of Tsushima",
+      "genre": "Action",
+      "platform": "PS4/PS5",
+      "year": "2020",
+      "rating": "9.2"
+    },
+    {
+      "title": "The Last of Us Part II",
+      "genre": "Action-Adventure",
+      "platform": "PS4",
+      "year": "2020",
+      "rating": "9.3"
+    },
+    {
+      "title": "Resident Evil 4 Remake",
+      "genre": "Horror",
+      "platform": "PC/PS5/Xbox",
+      "year": "2023",
+      "rating": "9.4"
+    },
+    {
+      "title": "Monster Hunter: World",
+      "genre": "Action-RPG",
+      "platform": "PC/PS4/Xbox",
+      "year": "2018",
+      "rating": "9.0"
+    },
+    {
+      "title": "Final Fantasy VII Remake",
+      "genre": "RPG",
+      "platform": "PS5/PC",
+      "year": "2020",
+      "rating": "9.2"
+    },
+    {
+      "title": "Persona 5 Royal",
+      "genre": "RPG",
+      "platform": "Multi",
+      "year": "2019",
+      "rating": "9.6"
+    },
+    {
+      "title": "Hollow Knight",
+      "genre": "Metroidvania",
+      "platform": "PC/Switch",
+      "year": "2017",
+      "rating": "9.2"
+    },
+    {
+      "title": "Hades",
+      "genre": "Roguelike",
+      "platform": "PC/Switch",
+      "year": "2020",
+      "rating": "9.3"
+    },
+    {
+      "title": "Stardew Valley",
+      "genre": "Simulation",
+      "platform": "Multi",
+      "year": "2016",
+      "rating": "9.1"
+    },
+    {
+      "title": "Celeste",
+      "genre": "Platformer",
+      "platform": "Multi",
+      "year": "2018",
+      "rating": "9.4"
+    },
+    {
+      "title": "Dead Cells",
+      "genre": "Roguelike",
+      "platform": "Multi",
+      "year": "2018",
+      "rating": "9.0"
+    },
+    {
+      "title": "Cuphead",
+      "genre": "Platformer",
+      "platform": "Multi",
+      "year": "2017",
+      "rating": "9.0"
+    },
+    {
+      "title": "Rocket League",
+      "genre": "Sports",
+      "platform": "Multi",
+      "year": "2015",
+      "rating": "8.9"
+    },
+    {
+      "title": "FIFA 23",
+      "genre": "Sports",
+      "platform": "Multi",
+      "year": "2022",
+      "rating": "7.8"
+    },
+    {
+      "title": "Forza Horizon 5",
+      "genre": "Racing",
+      "platform": "PC/Xbox",
+      "year": "2021",
+      "rating": "9.1"
+    },
+    {
+      "title": "Gran Turismo 7",
+      "genre": "Racing",
+      "platform": "PS5",
+      "year": "2022",
+      "rating": "8.8"
+    },
+    {
+      "title": "Civilization VI",
+      "genre": "Strategy",
+      "platform": "Multi",
+      "year": "2016",
+      "rating": "9.0"
+    },
+    {
+      "title": "Age of Empires IV",
+      "genre": "Strategy",
+      "platform": "PC",
+      "year": "2021",
+      "rating": "8.7"
+    },
+    {
+      "title": "StarCraft II",
+      "genre": "Strategy",
+      "platform": "PC",
+      "year": "2010",
+      "rating": "9.3"
+    },
+    {
+      "title": "Diablo IV",
+      "genre": "RPG",
+      "platform": "PC/PS5/Xbox",
+      "year": "2023",
+      "rating": "8.6"
+    },
+    {
+      "title": "Baldur\u2019s Gate 3",
+      "genre": "RPG",
+      "platform": "PC/PS5",
+      "year": "2023",
+      "rating": "9.7"
+    },
+    {
+      "title": "Skyrim",
+      "genre": "RPG",
+      "platform": "Multi",
+      "year": "2011",
+      "rating": "9.4"
+    },
+    {
+      "title": "Fallout 4",
+      "genre": "RPG",
+      "platform": "PC/PS4/Xbox",
+      "year": "2015",
+      "rating": "8.7"
+    },
+    {
+      "title": "No Man\u2019s Sky",
+      "genre": "Adventure",
+      "platform": "Multi",
+      "year": "2016",
+      "rating": "8.5"
+    },
+    {
+      "title": "Subnautica",
+      "genre": "Survival",
+      "platform": "Multi",
+      "year": "2018",
+      "rating": "9.0"
+    },
+    {
+      "title": "Rust",
+      "genre": "Survival",
+      "platform": "PC",
+      "year": "2013",
+      "rating": "8.2"
+    },
+    {
+      "title": "Metal Gear Solid V",
+      "genre": "Action-Stealth",
+      "platform": "PC/PS4/Xbox",
+      "year": "2015",
+      "rating": "9.3"
+    },
+    {
+      "title": "Portal 2",
+      "genre": "Puzzle",
+      "platform": "PC/PS3/Xbox",
+      "year": "2011",
+      "rating": "9.8"
+    },
+    {
+      "title": "Half-Life 2",
+      "genre": "Shooter",
+      "platform": "PC",
+      "year": "2004",
+      "rating": "9.7"
+    },
+    {
+      "title": "BioShock",
+      "genre": "Shooter",
+      "platform": "PC/PS3/Xbox",
+      "year": "2007",
+      "rating": "9.6"
+    },
+    {
+      "title": "Mass Effect 2",
+      "genre": "RPG",
+      "platform": "PC/PS3/Xbox",
+      "year": "2010",
+      "rating": "9.6"
+    }
+  ]
+}

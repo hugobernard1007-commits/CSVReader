@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "video_games_clean_realistic",
+    "OriginalFileName": "video_games_clean_realistic.csv",
+    "UploadedAt": "2026-08-04T09:37:29.3078669Z",
+    "SizeBytes": 2140,
+    "Headers": [],
+    "Rows": []
+  },
+  {
+    "Id": 2,
+    "Name": "video_games_mixed_test",
+    "OriginalFileName": "video_games_mixed_test.csv",
+    "UploadedAt": "2026-08-04T09:37:34.4679625Z",
+    "SizeBytes": 1199,
+    "Headers": [],
+    "Rows": []
+  }
+]
